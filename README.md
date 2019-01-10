@@ -8,3 +8,5 @@ Green Glass World will determine if a string inputted by the user has two consec
 nQueensProblem will place a set number of queens on a generated chessboard in such a manner that no queen attacks another queen, demonstrating a backtracking algorithm.  
 
 twoPlayerChess simulates a game of chess between two human players using chess notation. Rules have not been programmed in. 
+
+AVL_Tree is an implementation of an AVL tree in java that will rotate nodes as they are inserted, and when all nodes have been inserted it will show the heights and balance factors of the nodes with an in-order traversal. 
