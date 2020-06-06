@@ -15,3 +15,10 @@ AVL_Tree is an implementation of an AVL tree in java that will rotate nodes as t
 
 Pushdown Automata simulates a deterministic pushdown automata given an input from a text file.
 
+The HellingerCalculator notebook uses the Hellinger distance to determine the similarity between two bodies of text using LDA models.
+
+The MeanOfBigramQuantity notebook finds the average occurences of certain bigrams (word pairs) to determine topic discussion freqeuncy.
+
+The NLTK Gensim Hybrid is used to produce topic modelsusing processed data from the NLTK that produces an LDA model using Gensim modules.
+
+The bigramFinder notebook simply found all occurences of bigrams in a text document and printed them to an excel notebook. 
