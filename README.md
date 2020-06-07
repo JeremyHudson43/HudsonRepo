@@ -21,4 +21,4 @@ The MeanOfBigramQuantity notebook finds the average occurences of certain bigram
 
 The NLTK Gensim Hybrid is used to produce topic modelsusing processed data from the NLTK that produces an LDA model using Gensim modules.
 
-The bigramFinder notebook simply found all occurences of bigrams in a text document and printed them to an excel notebook. 
+The BigramFinder notebook simply found all occurences of bigrams in a text document and printed them to an excel notebook. 
