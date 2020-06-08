@@ -18,7 +18,7 @@ Hello, and welcome to my GitHub. I've written the following programs for fun and
 ``Pushdown Automata`` - simulates a deterministic pushdown automata given an input from a text file.
 
  ## IPython Notebooks
-``HellingerCalculator`` - notebook uses the Hellinger distance to determine the similarity between two bodies of text using LDA models.
+``HellingerCalculator`` - uses the Hellinger distance to determine the similarity between two bodies of text using LDA models.
 
 ``MeanOfBigramQuantity`` - finds the average occurences of certain bigrams (word pairs) to determine topic discussion freqeuncy.
 
