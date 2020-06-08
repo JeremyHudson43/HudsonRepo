@@ -22,7 +22,7 @@ Hello, and welcome to my GitHub. I've written the following programs for fun and
 
 ``MeanOfBigramQuantity`` - finds the average occurences of certain bigrams (word pairs) to determine topic discussion freqeuncy.
 
-``NLTKGensimHybrid`` -  used to produce topic modelsusing processed data from the NLTK that produces an LDA model using Gensim modules.
+``NLTKGensimHybrid`` -  used to produce topic models using processed data from the NLTK that produces an LDA model using Gensim modules.
 
 ``BigramFinder`` - simply finds all occurences of bigrams in a text document and prints them to an excel notebook. 
 
