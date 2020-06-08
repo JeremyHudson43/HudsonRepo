@@ -24,7 +24,7 @@ Hello, and welcome to my GitHub. I've written the following programs for fun and
 
 ``NLTKGensimHybrid`` -  used to produce topic modelsusing processed data from the NLTK that produces an LDA model using Gensim modules.
 
-``BigramFinder`` - notebook simply finds all occurences of bigrams in a text document and prints them to an excel notebook. 
+``BigramFinder`` - simply finds all occurences of bigrams in a text document and prints them to an excel notebook. 
 
  ## Python
 ``Transcriber`` - implements the Google Speech To Text API to convert a .FLAC file to a text transcription. 
