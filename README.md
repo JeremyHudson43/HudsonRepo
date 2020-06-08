@@ -7,7 +7,7 @@ Hello, and welcome to my GitHub. I've written the following programs for fun and
  ## Java
 ``ReverseRecursion`` - reverses a word using a recursive StringBuffer algorithm
 
-``Green Glass World`` - determines if a string inputted by the user has two consecutive letters of the same kind, for example "lettuce" will be in the Green Glass World because of the two consecutive "t"'s, however "vegetable" will not be in the Green Glass world.
+``GreenGlassWorld`` - determines if a string inputted by the user has two consecutive letters of the same kind, for example "lettuce" will be in the Green Glass World because of the two consecutive "t"'s, however "vegetable" will not be in the Green Glass world.
 
 ``NQueensProblem`` - will place a set number of queens on a generated chessboard in such a manner that no queen attacks another queen, demonstrating a backtracking algorithm.  
 
@@ -15,7 +15,7 @@ Hello, and welcome to my GitHub. I've written the following programs for fun and
 
 ``AVL_Tree`` - an implementation of an AVL tree in java that will rotate nodes as they are inserted, and when all nodes have been inserted it will show the heights and balance factors of the nodes with an in-order traversal. 
 
-``Pushdown Automata`` - simulates a deterministic pushdown automata given an input from a text file.
+``PushdownAutomata`` - simulates a deterministic pushdown automata given an input from a text file.
 
  ## IPython Notebooks
 ``HellingerCalculator`` - uses the Hellinger distance to determine the similarity between two bodies of text using LDA models.
