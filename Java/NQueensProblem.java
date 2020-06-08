@@ -4,13 +4,7 @@ public class NQueensProblem {
     
     public static int[][] chessBoard = new int[8][8];
 
-    /*
-    method that checks rows and columns by continually calling 
-    itself in a loop if (canBePlaced(chessBoard, row, column) returns true
-    to see if a queen can be legally placed. Otherwise, it backtracks to the 
-    last queen positioning that worked by replacing the queen at the 
-    [row][column] square of the chessboard with a 0
-     */
+  
     public boolean backTrack(int column) {
 
         if (column == 8) {
@@ -18,16 +12,20 @@ public class NQueensProblem {
             return true;
         }
 
+		//checks every row and column for legal placement
         for (int row = 0; row < 8; row++) {
 
             if (canBePlaced(row, column)) {
 
+				// put a 1 representing a queen on a legal square
                 chessBoard[row][column] = 1;
 
+				// check to see if recursion exit condition is true
                 if (backTrack(column + 1) == true) {
                     return true;
                 } 
                 else {
+					//places 0 on illegal square
                     chessBoard[row][column] = 0;
                 }
             }
