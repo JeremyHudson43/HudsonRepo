@@ -1,0 +1,5 @@
+(0, '0.002*"people" + 0.002*"man" + 0.002*"servant" + 0.002*"bring" + 0.002*"son" + 0.002*"dead" + 0.002*"hand" + 0.002*"die" + 0.002*"put" + 0.002*"place"')
+(1, '0.002*"people" + 0.002*"servant" + 0.002*"man" + 0.002*"bring" + 0.002*"wherefore" + 0.002*"dead" + 0.002*"answer" + 0.002*"hand" + 0.002*"die" + 0.002*"pass"')
+(2, '0.002*"people" + 0.002*"servant" + 0.002*"child" + 0.002*"man" + 0.002*"bring" + 0.002*"redeem" + 0.002*"remain" + 0.002*"remnant" + 0.002*"refuse" + 0.002*"reign"')
+(3, '0.002*"man" + 0.002*"people" + 0.002*"child" + 0.002*"servant" + 0.002*"bring" + 0.002*"return" + 0.002*"son" + 0.002*"pass" + 0.002*"call" + 0.002*"remain"')
+(4, '0.039*"people" + 0.039*"man" + 0.035*"servant" + 0.021*"bring" + 0.015*"son" + 0.013*"child" + 0.010*"call" + 0.010*"hand" + 0.010*"dead" + 0.010*"put"')

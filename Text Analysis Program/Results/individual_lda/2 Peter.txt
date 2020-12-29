@@ -1,0 +1,5 @@
+(0, '0.005*"presumptuous" + 0.005*"precious" + 0.005*"promise" + 0.005*"privily" + 0.005*"private" + 0.005*"prophet" + 0.005*"present" + 0.005*"power" + 0.005*"practice" + 0.005*"proverb"')
+(1, '0.005*"presumptuous" + 0.005*"precious" + 0.005*"promise" + 0.005*"privily" + 0.005*"private" + 0.005*"prophet" + 0.005*"present" + 0.005*"power" + 0.005*"practice" + 0.005*"proverb"')
+(2, '0.015*"bring" + 0.015*"world" + 0.015*"word" + 0.015*"knowledge" + 0.012*"man" + 0.012*"day" + 0.012*"deliver" + 0.012*"lust" + 0.012*"promise" + 0.012*"great"')
+(3, '0.005*"presumptuous" + 0.005*"precious" + 0.005*"promise" + 0.005*"privily" + 0.005*"private" + 0.005*"prophet" + 0.005*"present" + 0.005*"power" + 0.005*"practice" + 0.005*"proverb"')
+(4, '0.005*"presumptuous" + 0.005*"precious" + 0.005*"promise" + 0.005*"privily" + 0.005*"private" + 0.005*"prophet" + 0.005*"present" + 0.005*"power" + 0.005*"practice" + 0.005*"proverb"')

@@ -1,0 +1,5 @@
+(0, '0.002*"priest" + 0.002*"high" + 0.002*"sin" + 0.002*"offer" + 0.002*"blood" + 0.002*"faith" + 0.002*"place" + 0.002*"son" + 0.002*"chapter" + 0.002*"hand"')
+(1, '0.002*"priest" + 0.002*"blood" + 0.002*"faith" + 0.002*"high" + 0.002*"offer" + 0.002*"sin" + 0.002*"receive" + 0.002*"dead" + 0.002*"time" + 0.002*"law"')
+(2, '0.002*"faith" + 0.002*"blood" + 0.002*"high" + 0.002*"offer" + 0.002*"priest" + 0.002*"received" + 0.002*"reason" + 0.002*"reconciliation" + 0.002*"receive" + 0.002*"reformation"')
+(3, '0.018*"sin" + 0.018*"faith" + 0.015*"blood" + 0.015*"offer" + 0.015*"priest" + 0.014*"high" + 0.012*"man" + 0.012*"promise" + 0.011*"receive" + 0.010*"enter"')
+(4, '0.002*"people" + 0.002*"offer" + 0.002*"high" + 0.002*"faith" + 0.002*"good" + 0.002*"sacrifice" + 0.002*"word" + 0.002*"sin" + 0.002*"receive" + 0.002*"priest"')

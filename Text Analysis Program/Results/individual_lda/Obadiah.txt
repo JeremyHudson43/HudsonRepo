@@ -1,0 +1,5 @@
+(0, '0.012*"nest" + 0.012*"mighty" + 0.012*"proudly" + 0.012*"prevail" + 0.012*"possession" + 0.012*"possess" + 0.012*"plain" + 0.012*"people" + 0.012*"peace" + 0.012*"return"')
+(1, '0.012*"nest" + 0.012*"mighty" + 0.012*"proudly" + 0.012*"prevail" + 0.012*"possession" + 0.012*"possess" + 0.012*"plain" + 0.012*"people" + 0.012*"peace" + 0.012*"return"')
+(2, '0.012*"nest" + 0.012*"mighty" + 0.012*"proudly" + 0.012*"prevail" + 0.012*"possession" + 0.012*"possess" + 0.012*"plain" + 0.012*"people" + 0.012*"peace" + 0.012*"return"')
+(3, '0.044*"possess" + 0.044*"day" + 0.027*"bring" + 0.027*"man" + 0.018*"child" + 0.018*"enter" + 0.018*"remain" + 0.018*"field" + 0.018*"deceive" + 0.018*"cut"')
+(4, '0.012*"nest" + 0.012*"mighty" + 0.012*"proudly" + 0.012*"prevail" + 0.012*"possession" + 0.012*"possess" + 0.012*"plain" + 0.012*"people" + 0.012*"peace" + 0.012*"return"')

@@ -1,0 +1,5 @@
+
+The total number of model topics are: 2
+
+The number of documents most similar to each topic are: [39 27]
+The unique indexes of each topic are: [0 1]

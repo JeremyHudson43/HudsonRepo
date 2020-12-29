@@ -1,0 +1,5 @@
+(0, '0.036*"people" + 0.028*"child" + 0.022*"land" + 0.020*"great" + 0.017*"gather" + 0.017*"tree" + 0.017*"wine" + 0.014*"eat" + 0.014*"strong" + 0.011*"sell"')
+(1, '0.005*"people" + 0.005*"child" + 0.005*"return" + 0.005*"repent" + 0.005*"river" + 0.005*"run" + 0.005*"restore" + 0.005*"rend" + 0.005*"satisfied" + 0.005*"remove"')
+(2, '0.005*"run" + 0.005*"satisfied" + 0.005*"rejoice" + 0.005*"remove" + 0.005*"rend" + 0.005*"repent" + 0.005*"restore" + 0.005*"return" + 0.005*"river" + 0.005*"rule"')
+(3, '0.005*"run" + 0.005*"satisfied" + 0.005*"rejoice" + 0.005*"remove" + 0.005*"rend" + 0.005*"repent" + 0.005*"restore" + 0.005*"return" + 0.005*"river" + 0.005*"rule"')
+(4, '0.005*"people" + 0.005*"strong" + 0.005*"great" + 0.005*"child" + 0.005*"land" + 0.005*"tree" + 0.005*"wine" + 0.005*"rejoice" + 0.005*"remove" + 0.005*"repent"')

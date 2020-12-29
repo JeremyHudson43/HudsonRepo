@@ -1,0 +1,5 @@
+(0, '0.010*"righteousness" + 0.010*"sake" + 0.010*"receive" + 0.010*"remain" + 0.010*"righteous" + 0.010*"propitiation" + 0.010*"sight" + 0.010*"seed" + 0.010*"pray" + 0.010*"seduce"')
+(1, '0.068*"sin" + 0.053*"love" + 0.046*"write" + 0.039*"child" + 0.029*"life" + 0.025*"man" + 0.025*"commandment" + 0.022*"death" + 0.022*"hear" + 0.022*"son"')
+(2, '0.010*"love" + 0.010*"sin" + 0.010*"righteous" + 0.010*"pure" + 0.010*"receive" + 0.010*"remain" + 0.010*"propitiation" + 0.010*"sight" + 0.010*"seed" + 0.010*"righteousness"')
+(3, '0.010*"love" + 0.010*"child" + 0.010*"sin" + 0.010*"write" + 0.010*"righteousness" + 0.010*"sake" + 0.010*"remain" + 0.010*"righteous" + 0.010*"pure" + 0.010*"sight"')
+(4, '0.010*"love" + 0.010*"child" + 0.010*"sin" + 0.010*"write" + 0.010*"righteousness" + 0.010*"sake" + 0.010*"remain" + 0.010*"righteous" + 0.010*"pure" + 0.010*"sight"')

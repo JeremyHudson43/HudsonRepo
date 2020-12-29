@@ -1,0 +1,5 @@
+(0, '0.025*"man" + 0.020*"faith" + 0.020*"word" + 0.017*"good" + 0.011*"suffer" + 0.011*"call" + 0.011*"strive" + 0.011*"turn" + 0.011*"give" + 0.011*"work"')
+(1, '0.005*"profit" + 0.005*"preserve" + 0.005*"purpose" + 0.005*"pure" + 0.005*"profitable" + 0.005*"question" + 0.005*"proceed" + 0.005*"preach" + 0.005*"prepare" + 0.005*"raise"')
+(2, '0.005*"man" + 0.005*"profitable" + 0.005*"proceed" + 0.005*"put" + 0.005*"purpose" + 0.005*"pure" + 0.005*"quick" + 0.005*"profit" + 0.005*"prepare" + 0.005*"present"')
+(3, '0.005*"profit" + 0.005*"preserve" + 0.005*"purpose" + 0.005*"pure" + 0.005*"profitable" + 0.005*"question" + 0.005*"proceed" + 0.005*"preach" + 0.005*"prepare" + 0.005*"raise"')
+(4, '0.005*"profit" + 0.005*"preserve" + 0.005*"purpose" + 0.005*"pure" + 0.005*"profitable" + 0.005*"question" + 0.005*"proceed" + 0.005*"preach" + 0.005*"prepare" + 0.005*"raise"')

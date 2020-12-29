@@ -1,0 +1,5 @@
+(0, '0.001*"man" + 0.001*"heart" + 0.001*"wise" + 0.001*"fool" + 0.001*"word" + 0.001*"evil" + 0.001*"good" + 0.001*"knowledge" + 0.001*"wicked" + 0.001*"understand"')
+(1, '0.001*"heart" + 0.001*"man" + 0.001*"wise" + 0.001*"fool" + 0.001*"knowledge" + 0.001*"evil" + 0.001*"good" + 0.001*"understand" + 0.001*"wicked" + 0.001*"wisdom"')
+(2, '0.036*"man" + 0.020*"heart" + 0.020*"wise" + 0.014*"fool" + 0.014*"word" + 0.012*"wicked" + 0.012*"knowledge" + 0.010*"understand" + 0.010*"good" + 0.009*"evil"')
+(3, '0.001*"man" + 0.001*"wise" + 0.001*"heart" + 0.001*"fool" + 0.001*"word" + 0.001*"ready" + 0.001*"ravish" + 0.001*"ransom" + 0.001*"raging" + 0.001*"rain"')
+(4, '0.001*"man" + 0.001*"rain" + 0.001*"rage" + 0.001*"ready" + 0.001*"ravish" + 0.001*"ransom" + 0.001*"rebuke" + 0.001*"raging" + 0.001*"purse" + 0.001*"put"')

@@ -1,0 +1,5 @@
+(0, '0.003*"pull" + 0.003*"prosperity" + 0.003*"regard" + 0.003*"recall" + 0.003*"rebel" + 0.003*"quietly" + 0.003*"pursuer" + 0.003*"purpose" + 0.003*"punishment" + 0.003*"reject"')
+(1, '0.003*"hand" + 0.003*"turn" + 0.003*"people" + 0.003*"daughter" + 0.003*"child" + 0.003*"call" + 0.003*"anger" + 0.003*"man" + 0.003*"rebel" + 0.003*"quietly"')
+(2, '0.003*"pull" + 0.003*"prosperity" + 0.003*"regard" + 0.003*"recall" + 0.003*"rebel" + 0.003*"quietly" + 0.003*"pursuer" + 0.003*"purpose" + 0.003*"punishment" + 0.003*"reject"')
+(3, '0.003*"child" + 0.003*"man" + 0.003*"people" + 0.003*"hand" + 0.003*"punishment" + 0.003*"recall" + 0.003*"rebel" + 0.003*"quietly" + 0.003*"pursuer" + 0.003*"purpose"')
+(4, '0.020*"man" + 0.017*"turn" + 0.017*"people" + 0.015*"child" + 0.015*"hand" + 0.015*"daughter" + 0.014*"anger" + 0.011*"day" + 0.011*"call" + 0.011*"young"')

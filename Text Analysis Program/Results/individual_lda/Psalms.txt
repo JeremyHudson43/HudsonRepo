@@ -1,0 +1,5 @@
+(0, '0.020*"praise" + 0.015*"people" + 0.014*"heart" + 0.012*"man" + 0.011*"psalm" + 0.011*"give" + 0.011*"mercy" + 0.010*"hand" + 0.009*"deliver" + 0.009*"word"')
+(1, '0.001*"praise" + 0.001*"people" + 0.001*"man" + 0.001*"mercy" + 0.001*"hand" + 0.001*"psalm" + 0.001*"soul" + 0.001*"earth" + 0.001*"deliver" + 0.001*"word"')
+(2, '0.001*"praise" + 0.001*"people" + 0.001*"heart" + 0.001*"give" + 0.001*"mercy" + 0.001*"psalm" + 0.001*"bring" + 0.001*"man" + 0.001*"deliver" + 0.001*"enemy"')
+(3, '0.001*"praise" + 0.001*"people" + 0.001*"psalm" + 0.001*"heart" + 0.001*"deliver" + 0.001*"hand" + 0.001*"man" + 0.001*"give" + 0.001*"bring" + 0.001*"mercy"')
+(4, '0.001*"praise" + 0.001*"people" + 0.001*"give" + 0.001*"heart" + 0.001*"mercy" + 0.001*"psalm" + 0.001*"man" + 0.001*"soul" + 0.001*"hand" + 0.001*"work"')

@@ -1,0 +1,5 @@
+(0, '0.002*"man" + 0.002*"great" + 0.002*"fall" + 0.002*"open" + 0.002*"angel" + 0.002*"seal" + 0.002*"voice" + 0.002*"beast" + 0.002*"nation" + 0.002*"hear"')
+(1, '0.002*"give" + 0.002*"voice" + 0.002*"beast" + 0.002*"great" + 0.002*"man" + 0.002*"write" + 0.002*"nation" + 0.002*"water" + 0.002*"throne" + 0.002*"dead"')
+(2, '0.002*"great" + 0.002*"voice" + 0.002*"man" + 0.002*"beast" + 0.002*"hear" + 0.002*"chapter" + 0.002*"head" + 0.002*"blood" + 0.002*"throne" + 0.002*"nation"')
+(3, '0.026*"great" + 0.020*"hear" + 0.019*"beast" + 0.019*"man" + 0.017*"voice" + 0.014*"give" + 0.013*"write" + 0.012*"open" + 0.011*"seal" + 0.011*"angel"')
+(4, '0.002*"voice" + 0.002*"great" + 0.002*"beast" + 0.002*"hear" + 0.002*"give" + 0.002*"man" + 0.002*"throne" + 0.002*"dead" + 0.002*"stand" + 0.002*"nation"')

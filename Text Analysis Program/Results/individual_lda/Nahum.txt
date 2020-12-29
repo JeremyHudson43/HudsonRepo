@@ -1,0 +1,5 @@
+(0, '0.006*"put" + 0.006*"recount" + 0.006*"pleasant" + 0.006*"populous" + 0.006*"pour" + 0.006*"power" + 0.006*"pranse" + 0.006*"preparation" + 0.006*"prepare" + 0.006*"perform"')
+(1, '0.006*"put" + 0.006*"recount" + 0.006*"pleasant" + 0.006*"populous" + 0.006*"pour" + 0.006*"power" + 0.006*"pranse" + 0.006*"preparation" + 0.006*"prepare" + 0.006*"perform"')
+(2, '0.006*"put" + 0.006*"recount" + 0.006*"pleasant" + 0.006*"populous" + 0.006*"pour" + 0.006*"power" + 0.006*"pranse" + 0.006*"preparation" + 0.006*"prepare" + 0.006*"perform"')
+(3, '0.021*"cut" + 0.021*"strong" + 0.021*"man" + 0.013*"stand" + 0.013*"pass" + 0.013*"great" + 0.013*"chariot" + 0.013*"sword" + 0.009*"chapter" + 0.009*"grave"')
+(4, '0.006*"put" + 0.006*"recount" + 0.006*"pleasant" + 0.006*"populous" + 0.006*"pour" + 0.006*"power" + 0.006*"pranse" + 0.006*"preparation" + 0.006*"prepare" + 0.006*"perform"')

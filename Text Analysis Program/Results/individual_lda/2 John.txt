@@ -1,0 +1,5 @@
+(0, '0.082*"commandment" + 0.063*"write" + 0.063*"walk" + 0.063*"child" + 0.063*"receive" + 0.063*"love" + 0.043*"full" + 0.043*"face" + 0.024*"sake" + 0.024*"rejoice"')
+(1, '0.033*"sake" + 0.033*"speed" + 0.033*"partaker" + 0.033*"receive" + 0.033*"rejoice" + 0.033*"reward" + 0.033*"love" + 0.033*"speak" + 0.033*"world" + 0.033*"truth"')
+(2, '0.033*"sake" + 0.033*"speed" + 0.033*"partaker" + 0.033*"receive" + 0.033*"rejoice" + 0.033*"reward" + 0.033*"love" + 0.033*"speak" + 0.033*"world" + 0.033*"truth"')
+(3, '0.033*"sake" + 0.033*"speed" + 0.033*"partaker" + 0.033*"receive" + 0.033*"rejoice" + 0.033*"reward" + 0.033*"love" + 0.033*"speak" + 0.033*"world" + 0.033*"truth"')
+(4, '0.033*"sake" + 0.033*"speed" + 0.033*"partaker" + 0.033*"receive" + 0.033*"rejoice" + 0.033*"reward" + 0.033*"love" + 0.033*"speak" + 0.033*"world" + 0.033*"truth"')

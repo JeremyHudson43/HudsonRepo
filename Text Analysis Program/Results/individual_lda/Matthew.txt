@@ -1,0 +1,5 @@
+(0, '0.001*"man" + 0.001*"give" + 0.001*"answer" + 0.001*"call" + 0.001*"bring" + 0.001*"hear" + 0.001*"good" + 0.001*"child" + 0.001*"great" + 0.001*"fruit"')
+(1, '0.001*"great" + 0.001*"servant" + 0.001*"good" + 0.001*"call" + 0.001*"give" + 0.001*"man" + 0.001*"hear" + 0.001*"brother" + 0.001*"bring" + 0.001*"disciple"')
+(2, '0.025*"man" + 0.016*"give" + 0.012*"child" + 0.012*"hear" + 0.011*"great" + 0.011*"call" + 0.010*"good" + 0.010*"servant" + 0.009*"bring" + 0.008*"answer"')
+(3, '0.001*"man" + 0.001*"give" + 0.001*"hear" + 0.001*"talent" + 0.001*"brother" + 0.001*"son" + 0.001*"call" + 0.001*"eat" + 0.001*"disciple" + 0.001*"put"')
+(4, '0.001*"man" + 0.001*"great" + 0.001*"give" + 0.001*"hear" + 0.001*"priest" + 0.001*"child" + 0.001*"good" + 0.001*"call" + 0.001*"servant" + 0.001*"talent"')

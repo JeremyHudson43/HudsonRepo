@@ -1,0 +1,5 @@
+(0, '0.004*"raise" + 0.004*"rain" + 0.004*"rest" + 0.004*"remember" + 0.004*"rejoice" + 0.004*"ravish" + 0.004*"ring" + 0.004*"pleasant" + 0.004*"put" + 0.004*"rise"')
+(1, '0.004*"raise" + 0.004*"rain" + 0.004*"rest" + 0.004*"remember" + 0.004*"rejoice" + 0.004*"ravish" + 0.004*"ring" + 0.004*"pleasant" + 0.004*"put" + 0.004*"rise"')
+(2, '0.004*"love" + 0.004*"beloved" + 0.004*"ravish" + 0.004*"rest" + 0.004*"remember" + 0.004*"rejoice" + 0.004*"ring" + 0.004*"raise" + 0.004*"pour" + 0.004*"rafter"')
+(3, '0.049*"beloved" + 0.032*"love" + 0.017*"daughter" + 0.015*"bring" + 0.015*"spice" + 0.013*"mother" + 0.013*"chapter" + 0.011*"seek" + 0.011*"eye" + 0.011*"give"')
+(4, '0.004*"raise" + 0.004*"rain" + 0.004*"rest" + 0.004*"remember" + 0.004*"rejoice" + 0.004*"ravish" + 0.004*"ring" + 0.004*"pleasant" + 0.004*"put" + 0.004*"rise"')

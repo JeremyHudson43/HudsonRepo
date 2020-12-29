@@ -1,0 +1,5 @@
+(0, '0.007*"perform" + 0.007*"place" + 0.007*"naomi" + 0.007*"nativity" + 0.007*"night" + 0.007*"parch" + 0.007*"part" + 0.007*"people" + 0.007*"mother" + 0.007*"put"')
+(1, '0.007*"man" + 0.007*"place" + 0.007*"nativity" + 0.007*"night" + 0.007*"parch" + 0.007*"part" + 0.007*"people" + 0.007*"perform" + 0.007*"move" + 0.007*"put"')
+(2, '0.007*"perform" + 0.007*"place" + 0.007*"naomi" + 0.007*"nativity" + 0.007*"night" + 0.007*"parch" + 0.007*"part" + 0.007*"people" + 0.007*"mother" + 0.007*"put"')
+(3, '0.007*"man" + 0.007*"people" + 0.007*"place" + 0.007*"nativity" + 0.007*"night" + 0.007*"parch" + 0.007*"part" + 0.007*"perform" + 0.007*"move" + 0.007*"put"')
+(4, '0.040*"man" + 0.033*"people" + 0.024*"law" + 0.024*"return" + 0.024*"give" + 0.020*"young" + 0.020*"lie" + 0.020*"dead" + 0.017*"daughter" + 0.017*"woman"')

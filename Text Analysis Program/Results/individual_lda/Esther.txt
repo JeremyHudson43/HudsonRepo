@@ -1,0 +1,5 @@
+(0, '0.035*"people" + 0.026*"day" + 0.026*"write" + 0.018*"woman" + 0.016*"month" + 0.015*"commandment" + 0.015*"bring" + 0.015*"give" + 0.012*"king" + 0.012*"great"')
+(1, '0.003*"people" + 0.003*"bring" + 0.003*"day" + 0.003*"write" + 0.003*"woman" + 0.003*"presence" + 0.003*"promise" + 0.003*"profit" + 0.003*"prince" + 0.003*"press"')
+(2, '0.003*"present" + 0.003*"presence" + 0.003*"province" + 0.003*"promote" + 0.003*"promise" + 0.003*"profit" + 0.003*"prince" + 0.003*"press" + 0.003*"purple" + 0.003*"prefer"')
+(3, '0.003*"people" + 0.003*"day" + 0.003*"bring" + 0.003*"write" + 0.003*"present" + 0.003*"promote" + 0.003*"promise" + 0.003*"profit" + 0.003*"prince" + 0.003*"publish"')
+(4, '0.003*"people" + 0.003*"day" + 0.003*"write" + 0.003*"present" + 0.003*"promote" + 0.003*"promise" + 0.003*"profit" + 0.003*"prince" + 0.003*"press" + 0.003*"publish"')

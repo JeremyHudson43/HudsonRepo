@@ -1,0 +1,5 @@
+(0, '0.008*"prepare" + 0.008*"presence" + 0.008*"perish" + 0.008*"person" + 0.008*"pray" + 0.008*"preaching" + 0.008*"pay" + 0.008*"reason" + 0.008*"put" + 0.008*"offer"')
+(1, '0.008*"man" + 0.008*"presence" + 0.008*"perish" + 0.008*"person" + 0.008*"pray" + 0.008*"preaching" + 0.008*"pay" + 0.008*"prepare" + 0.008*"reason" + 0.008*"put"')
+(2, '0.008*"day" + 0.008*"exceed" + 0.008*"city" + 0.008*"night" + 0.008*"compass" + 0.008*"sackcloth" + 0.008*"cover" + 0.008*"cry" + 0.008*"people" + 0.008*"exceedingly"')
+(3, '0.029*"man" + 0.025*"great" + 0.020*"turn" + 0.020*"angry" + 0.020*"lie" + 0.020*"cry" + 0.015*"exceedingly" + 0.015*"hand" + 0.015*"presence" + 0.015*"evil"')
+(4, '0.008*"prepare" + 0.008*"presence" + 0.008*"perish" + 0.008*"person" + 0.008*"pray" + 0.008*"preaching" + 0.008*"pay" + 0.008*"reason" + 0.008*"put" + 0.008*"offer"')

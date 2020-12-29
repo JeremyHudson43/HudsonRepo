@@ -1,0 +1,5 @@
+(0, '0.004*"good" + 0.004*"faith" + 0.004*"profession" + 0.004*"proud" + 0.004*"prophecy" + 0.004*"promise" + 0.004*"profiteth" + 0.004*"profitable" + 0.004*"provide" + 0.004*"profit"')
+(1, '0.004*"faith" + 0.004*"man" + 0.004*"good" + 0.004*"profiteth" + 0.004*"profession" + 0.004*"prove" + 0.004*"proud" + 0.004*"prophecy" + 0.004*"promise" + 0.004*"pure"')
+(2, '0.004*"faith" + 0.004*"man" + 0.004*"good" + 0.004*"profiteth" + 0.004*"profession" + 0.004*"prove" + 0.004*"proud" + 0.004*"prophecy" + 0.004*"promise" + 0.004*"pure"')
+(3, '0.031*"good" + 0.029*"faith" + 0.022*"man" + 0.018*"give" + 0.012*"word" + 0.012*"teach" + 0.012*"work" + 0.010*"faithful" + 0.010*"woman" + 0.010*"doctrine"')
+(4, '0.004*"good" + 0.004*"faith" + 0.004*"profession" + 0.004*"proud" + 0.004*"prophecy" + 0.004*"promise" + 0.004*"profiteth" + 0.004*"profitable" + 0.004*"provide" + 0.004*"profit"')

@@ -1,0 +1,19 @@
+
+Keywords of total model topic
+
+['zion' 'hosts' 'like' 'waste' 'iniquity' 'yea' 'desolate' 'pleasant'
+ 'mountains' 'will' 'terrible' 'streets' 'shall' 'vanity' 'cry' 'saith'
+ 'ways' 'anger' 'have' 'as' 'strength' 'mine' 'strong' 'rivers' 'dust'
+ 'cause' 'lord' 'enemies' 'land' 'fury' 'far' 'wickedness' 'up' 'thine'
+ 'wicked' 'heathen' 'my' 'not' 'nations' 'hills' 'rejoice' 'captivity'
+ 'wind' 'cut' 'cease' 'devour' 'return' 'dry' 'against' 'neither']
+
+Keywords of total model topic
+
+['christ' 'faith' 'grace' 'church' 'gospel' 'knowing' 'world' 'love'
+ 'doctrine' 'things' 'truth' 'having' 'beloved' 'faithful' 'receive' 'you'
+ 'mind' 'hope' 'suffer' 'jesus' 'being' 'saints' 'we' 'hearts' 'amen'
+ 'spirit' 'works' 'think' 'but' 'power' 'believe' 'good' 'knowledge'
+ 'promise' 'rather' 'preached' 'preach' 'god' 'glory' 'always' 'vain'
+ 'others' 'righteousness' 'not' 'ourselves' 'ye' 'write' 'as' 'paul'
+ 'received']

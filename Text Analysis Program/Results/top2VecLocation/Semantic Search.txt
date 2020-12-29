@@ -1,0 +1,138 @@
+
+Documents with highest semantic similarity to given keywords
+
+Document: 39, Score: 0.5272
+-----------
+THE GOSPEL ACCORDING TO SAINT JOHN CHAPTER 1 1 In the beginning was the Word, and the Word was with 
+-----------
+
+Document: 2, Score: 0.4514
+-----------
+THE FIRST GENERAL EPISTLE OF JOHN CHAPTER 1 1 That which was from the beginning, which we have heard
+-----------
+
+Document: 48, Score: 0.4173
+-----------
+THE GOSPEL ACCORDING TO SAINT MARK CHAPTER 1 1 The beginning of the gospel of Jesus Christ, the Son 
+-----------
+
+Document: 49, Score: 0.4015
+-----------
+THE GOSPEL ACCORDING TO SAINT MATTHEW CHAPTER 1 1 The book of the generation of Jesus Christ, the so
+-----------
+
+Document: 46, Score: 0.3946
+-----------
+THE GOSPEL ACCORDING TO SAINT LUKE CHAPTER 1 1 Forasmuch as many have taken in hand to set forth in 
+-----------
+
+Document: 60, Score: 0.3401
+-----------
+THE EPISTLE OF PAUL THE APOSTLE TO THE ROMANS CHAPTER 1 1 Paul, a servant of Jesus Christ, called to
+-----------
+
+Document: 23, Score: 0.3127
+-----------
+THE EPISTLE OF PAUL THE APOSTLE TO THE EPHESIANS CHAPTER 1 1 Paul, an apostle of Jesus Christ by the
+-----------
+
+Document: 56, Score: 0.2956
+-----------
+THE EPISTLE OF PAUL THE APOSTLE TO THE PHILIPPIANS CHAPTER 1 1 Paul and Timotheus, the servants of J
+-----------
+
+Document: 9, Score: 0.2863
+-----------
+THE SECOND EPISTLE OF PAUL THE APOSTLE TO THE CORINTHIANS CHAPTER 1 1 Paul, an apostle of Jesus Chri
+-----------
+
+Document: 10, Score: 0.2761
+-----------
+THE SECOND EPISTLE OF JOHN CHAPTER 1 1 The elder unto the elect lady and her children, whom I love i
+-----------
+
+Document: 19, Score: 0.2688
+-----------
+THE EPISTLE OF PAUL THE APOSTLE TO THE COLOSSIANS CHAPTER 1 1 Paul, an apostle of Jesus Christ by th
+-----------
+
+Document: 1, Score: 0.2637
+-----------
+THE FIRST EPISTLE OF PAUL THE APOSTLE TO THE CORINTHIANS CHAPTER 1 1 Paul, called to be an apostle o
+-----------
+
+Document: 17, Score: 0.2612
+-----------
+THE ACTS OF THE APOSTLES CHAPTER 1 1 The former treatise have I made, O Theophilus, of all that Jesu
+-----------
+
+Document: 28, Score: 0.2571
+-----------
+THE EPISTLE OF PAUL THE APOSTLE TO THE GALATIANS CHAPTER 1 1 Paul, an apostle, (not of men, neither 
+-----------
+
+Document: 15, Score: 0.2561
+-----------
+THE SECOND EPISTLE OF PAUL THE APOSTLE TO TIMOTHY CHAPTER 1 1 Paul, an apostle of Jesus Christ by th
+-----------
+
+Document: 6, Score: 0.2519
+-----------
+THE FIRST EPISTLE OF PAUL THE APOSTLE TO THE THESSALONIANS CHAPTER 1 1 Paul, and Silvanus, and Timot
+-----------
+
+Document: 55, Score: 0.2517
+-----------
+THE EPISTLE OF PAUL TO PHILEMON CHAPTER 1 1 Paul, a prisoner of Jesus Christ, and Timothy our brothe
+-----------
+
+Document: 14, Score: 0.2491
+-----------
+THE SECOND EPISTLE OF PAUL THE APOSTLE TO THE THESSALONIANS CHAPTER 1 1 Paul, and Silvanus, and Timo
+-----------
+
+Document: 7, Score: 0.2388
+-----------
+THE FIRST EPISTLE OF PAUL THE APOSTLE TO TIMOTHY CHAPTER 1 1 Paul, an apostle of Jesus Christ by the
+-----------
+
+Document: 4, Score: 0.2315
+-----------
+THE FIRST EPISTLE GENERAL OF PETER CHAPTER 1 1 Peter, an apostle of Jesus Christ, to the strangers s
+-----------
+
+Document: 62, Score: 0.2136
+-----------
+THE SONG OF SOLOMON CHAPTER 1 1 The song of songs, which is Solomon's. 2 Let him kiss me with the ki
+-----------
+
+Document: 63, Score: 0.206
+-----------
+THE EPISTLE OF PAUL TO TITUS CHAPTER 1 1 Paul, a servant of God, and an apostle of Jesus Christ, acc
+-----------
+
+Document: 42, Score: 0.2032
+-----------
+THE GENERAL EPISTLE OF JUDE CHAPTER 1 1 Jude, the servant of Jesus Christ, and brother of James, to 
+-----------
+
+Document: 35, Score: 0.2024
+-----------
+THE GENERAL EPISTLE OF JAMES CHAPTER 1 1 James, a servant of God and of the Lord Jesus Christ, to th
+-----------
+
+Document: 12, Score: 0.1917
+-----------
+THE SECOND EPISTLE GENERAL OF PETER CHAPTER 1 1 Simon Peter, a servant and an apostle of Jesus Chris
+-----------
+
+Document: 16, Score: 0.1908
+-----------
+THE THIRD EPISTLE OF JOHN CHAPTER 1 1 The elder unto the wellbeloved Gaius, whom I love in the truth
+-----------
+
+Document: 57, Score: 0.1887
+-----------
+THE PROVERBS CHAPTER 1 1 The proverbs of Solomon the son of David, king of Israel; 2 To know wisdom 
+-----------
+

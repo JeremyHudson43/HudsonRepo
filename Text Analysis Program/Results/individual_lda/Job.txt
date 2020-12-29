@@ -1,0 +1,5 @@
+(0, '0.001*"man" + 0.001*"stand" + 0.001*"iniquity" + 0.001*"flesh" + 0.001*"place" + 0.001*"bring" + 0.001*"understand" + 0.001*"trouble" + 0.001*"poor" + 0.001*"die"')
+(1, '0.021*"man" + 0.014*"job" + 0.010*"word" + 0.010*"hand" + 0.009*"chapter" + 0.009*"place" + 0.008*"day" + 0.008*"water" + 0.007*"eye" + 0.007*"lie"')
+(2, '0.001*"man" + 0.001*"hold" + 0.001*"understand" + 0.001*"hear" + 0.001*"heart" + 0.001*"child" + 0.001*"hide" + 0.001*"high" + 0.001*"poor" + 0.001*"chapter"')
+(3, '0.001*"cut" + 0.001*"life" + 0.001*"child" + 0.001*"job" + 0.001*"hear" + 0.001*"wicked" + 0.001*"lie" + 0.001*"sin" + 0.001*"light" + 0.001*"eye"')
+(4, '0.001*"man" + 0.001*"chapter" + 0.001*"trouble" + 0.001*"answer" + 0.001*"job" + 0.001*"lie" + 0.001*"poor" + 0.001*"speak" + 0.001*"hear" + 0.001*"hand"')

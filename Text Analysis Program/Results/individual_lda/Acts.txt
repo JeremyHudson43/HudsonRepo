@@ -1,0 +1,5 @@
+(0, '0.028*"man" + 0.018*"people" + 0.018*"hear" + 0.017*"bring" + 0.014*"word" + 0.014*"call" + 0.011*"give" + 0.010*"stand" + 0.010*"day" + 0.010*"receive"')
+(1, '0.001*"man" + 0.001*"call" + 0.001*"people" + 0.001*"chapter" + 0.001*"arise" + 0.001*"receive" + 0.001*"deliver" + 0.001*"soldier" + 0.001*"ship" + 0.001*"stand"')
+(2, '0.001*"bring" + 0.001*"man" + 0.001*"open" + 0.001*"faith" + 0.001*"hear" + 0.001*"speak" + 0.001*"spake" + 0.001*"high" + 0.001*"put" + 0.001*"fall"')
+(3, '0.001*"man" + 0.001*"word" + 0.001*"hear" + 0.001*"bring" + 0.001*"people" + 0.001*"call" + 0.001*"give" + 0.001*"number" + 0.001*"holy" + 0.001*"fill"')
+(4, '0.001*"man" + 0.001*"brother" + 0.001*"day" + 0.001*"stand" + 0.001*"bring" + 0.001*"enter" + 0.001*"voice" + 0.001*"arise" + 0.001*"call" + 0.001*"ship"')

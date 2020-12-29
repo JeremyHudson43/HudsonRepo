@@ -1,0 +1,5 @@
+(0, '0.031*"suffer" + 0.022*"glory" + 0.014*"word" + 0.014*"good" + 0.012*"speak" + 0.012*"time" + 0.012*"evil" + 0.012*"conversation" + 0.012*"man" + 0.010*"dead"')
+(1, '0.004*"glory" + 0.004*"suffer" + 0.004*"good" + 0.004*"pure" + 0.004*"prison" + 0.004*"raise" + 0.004*"quicken" + 0.004*"quick" + 0.004*"put" + 0.004*"reason"')
+(2, '0.004*"glory" + 0.004*"suffer" + 0.004*"pure" + 0.004*"prison" + 0.004*"raise" + 0.004*"quicken" + 0.004*"quick" + 0.004*"put" + 0.004*"reason" + 0.004*"punishment"')
+(3, '0.004*"put" + 0.004*"punishment" + 0.004*"reason" + 0.004*"ready" + 0.004*"raise" + 0.004*"quicken" + 0.004*"quick" + 0.004*"redeem" + 0.004*"pure" + 0.004*"priesthood"')
+(4, '0.004*"put" + 0.004*"punishment" + 0.004*"reason" + 0.004*"ready" + 0.004*"raise" + 0.004*"quicken" + 0.004*"quick" + 0.004*"redeem" + 0.004*"pure" + 0.004*"priesthood"')

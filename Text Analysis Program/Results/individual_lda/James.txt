@@ -1,0 +1,5 @@
+(0, '0.004*"man" + 0.004*"brother" + 0.004*"work" + 0.004*"prayer" + 0.004*"poor" + 0.004*"prophet" + 0.004*"promise" + 0.004*"profit" + 0.004*"precious" + 0.004*"pure"')
+(1, '0.042*"man" + 0.030*"work" + 0.021*"brother" + 0.019*"faith" + 0.015*"receive" + 0.013*"rich" + 0.011*"behold" + 0.011*"body" + 0.011*"patience" + 0.011*"perfect"')
+(2, '0.004*"man" + 0.004*"faith" + 0.004*"work" + 0.004*"brother" + 0.004*"profit" + 0.004*"pray" + 0.004*"psalm" + 0.004*"prophet" + 0.004*"promise" + 0.004*"put"')
+(3, '0.004*"pray" + 0.004*"poor" + 0.004*"prophet" + 0.004*"promise" + 0.004*"profit" + 0.004*"precious" + 0.004*"prayer" + 0.004*"pure" + 0.004*"pleasure" + 0.004*"place"')
+(4, '0.004*"man" + 0.004*"work" + 0.004*"prayer" + 0.004*"poison" + 0.004*"prophet" + 0.004*"promise" + 0.004*"profit" + 0.004*"precious" + 0.004*"pure" + 0.004*"pray"')

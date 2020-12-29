@@ -1,0 +1,5 @@
+(0, '0.001*"side" + 0.001*"land" + 0.001*"bring" + 0.001*"people" + 0.001*"live" + 0.001*"face" + 0.001*"hand" + 0.001*"give" + 0.001*"word" + 0.001*"cubit"')
+(1, '0.001*"bring" + 0.001*"people" + 0.001*"face" + 0.001*"side" + 0.001*"land" + 0.001*"hand" + 0.001*"sword" + 0.001*"give" + 0.001*"measure" + 0.001*"live"')
+(2, '0.001*"bring" + 0.001*"land" + 0.001*"cubit" + 0.001*"people" + 0.001*"man" + 0.001*"side" + 0.001*"day" + 0.001*"water" + 0.001*"place" + 0.001*"give"')
+(3, '0.020*"bring" + 0.016*"side" + 0.015*"people" + 0.015*"land" + 0.011*"man" + 0.011*"hand" + 0.010*"measure" + 0.010*"word" + 0.010*"cubit" + 0.010*"face"')
+(4, '0.001*"bring" + 0.001*"people" + 0.001*"hand" + 0.001*"land" + 0.001*"face" + 0.001*"word" + 0.001*"set" + 0.001*"side" + 0.001*"water" + 0.001*"lie"')

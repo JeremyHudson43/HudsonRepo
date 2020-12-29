@@ -1,0 +1,5 @@
+(0, '0.034*"people" + 0.028*"child" + 0.019*"bring" + 0.018*"put" + 0.016*"gold" + 0.013*"work" + 0.011*"man" + 0.011*"land" + 0.011*"side" + 0.010*"hand"')
+(1, '0.001*"child" + 0.001*"people" + 0.001*"put" + 0.001*"bring" + 0.001*"side" + 0.001*"land" + 0.001*"man" + 0.001*"work" + 0.001*"offer" + 0.001*"gold"')
+(2, '0.001*"people" + 0.001*"put" + 0.001*"child" + 0.001*"bring" + 0.001*"gold" + 0.001*"eat" + 0.001*"work" + 0.001*"land" + 0.001*"shalt" + 0.001*"give"')
+(3, '0.001*"people" + 0.001*"child" + 0.001*"bring" + 0.001*"eat" + 0.001*"put" + 0.001*"gold" + 0.001*"work" + 0.001*"receive" + 0.001*"red" + 0.001*"reach"')
+(4, '0.001*"people" + 0.001*"child" + 0.001*"man" + 0.001*"put" + 0.001*"hand" + 0.001*"bring" + 0.001*"side" + 0.001*"give" + 0.001*"eat" + 0.001*"work"')

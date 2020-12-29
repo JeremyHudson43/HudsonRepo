@@ -1,0 +1,5 @@
+(0, '0.001*"man" + 0.001*"hear" + 0.001*"people" + 0.001*"answer" + 0.001*"bring" + 0.001*"disciple" + 0.001*"give" + 0.001*"leave" + 0.001*"son" + 0.001*"day"')
+(1, '0.024*"man" + 0.015*"hear" + 0.014*"give" + 0.012*"enter" + 0.011*"eat" + 0.011*"answer" + 0.010*"great" + 0.009*"sit" + 0.009*"people" + 0.009*"day"')
+(2, '0.001*"man" + 0.001*"give" + 0.001*"eat" + 0.001*"hear" + 0.001*"dead" + 0.001*"bring" + 0.001*"day" + 0.001*"immediately" + 0.001*"stand" + 0.001*"rise"')
+(3, '0.001*"man" + 0.001*"give" + 0.001*"hear" + 0.001*"rise" + 0.001*"people" + 0.001*"dead" + 0.001*"immediately" + 0.001*"bread" + 0.001*"stand" + 0.001*"day"')
+(4, '0.001*"man" + 0.001*"enter" + 0.001*"hear" + 0.001*"give" + 0.001*"priest" + 0.001*"cry" + 0.001*"disciple" + 0.001*"eat" + 0.001*"ship" + 0.001*"receive"')

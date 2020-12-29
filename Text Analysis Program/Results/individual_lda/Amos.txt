@@ -1,0 +1,5 @@
+(0, '0.003*"land" + 0.003*"rain" + 0.003*"punishment" + 0.003*"remember" + 0.003*"remain" + 0.003*"regard" + 0.003*"reaper" + 0.003*"raise" + 0.003*"remove" + 0.003*"put"')
+(1, '0.003*"turn" + 0.003*"land" + 0.003*"rain" + 0.003*"put" + 0.003*"remember" + 0.003*"remain" + 0.003*"regard" + 0.003*"reaper" + 0.003*"raise" + 0.003*"remove"')
+(2, '0.003*"turn" + 0.003*"send" + 0.003*"bring" + 0.003*"land" + 0.003*"fire" + 0.003*"raise" + 0.003*"remember" + 0.003*"remain" + 0.003*"regard" + 0.003*"reaper"')
+(3, '0.025*"land" + 0.020*"turn" + 0.016*"bring" + 0.014*"fire" + 0.013*"palace" + 0.013*"punishment" + 0.013*"child" + 0.011*"send" + 0.011*"poor" + 0.011*"deliver"')
+(4, '0.003*"rain" + 0.003*"punishment" + 0.003*"remnant" + 0.003*"remember" + 0.003*"remain" + 0.003*"regard" + 0.003*"reaper" + 0.003*"raise" + 0.003*"repent" + 0.003*"put"')

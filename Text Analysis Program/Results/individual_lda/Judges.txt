@@ -1,0 +1,5 @@
+(0, '0.002*"child" + 0.002*"man" + 0.002*"people" + 0.002*"hand" + 0.002*"deliver" + 0.002*"give" + 0.002*"draw" + 0.002*"great" + 0.002*"head" + 0.002*"offer"')
+(1, '0.002*"man" + 0.002*"people" + 0.002*"child" + 0.002*"hand" + 0.002*"deliver" + 0.002*"put" + 0.002*"give" + 0.002*"daughter" + 0.002*"pass" + 0.002*"fire"')
+(2, '0.002*"child" + 0.002*"man" + 0.002*"deliver" + 0.002*"people" + 0.002*"turn" + 0.002*"pass" + 0.002*"give" + 0.002*"hand" + 0.002*"call" + 0.002*"put"')
+(3, '0.002*"man" + 0.002*"child" + 0.002*"hand" + 0.002*"deliver" + 0.002*"people" + 0.002*"give" + 0.002*"pass" + 0.002*"call" + 0.002*"gather" + 0.002*"bring"')
+(4, '0.044*"man" + 0.044*"child" + 0.028*"people" + 0.019*"deliver" + 0.018*"hand" + 0.014*"give" + 0.014*"put" + 0.012*"bring" + 0.012*"pass" + 0.009*"turn"')

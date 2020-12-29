@@ -1,0 +1,5 @@
+(0, '0.003*"child" + 0.003*"son" + 0.003*"offer" + 0.003*"give" + 0.003*"build" + 0.003*"bring" + 0.003*"people" + 0.003*"priest" + 0.003*"set" + 0.003*"rain"')
+(1, '0.003*"child" + 0.003*"offer" + 0.003*"bring" + 0.003*"people" + 0.003*"build" + 0.003*"purpose" + 0.003*"read" + 0.003*"ram" + 0.003*"rain" + 0.003*"put"')
+(2, '0.091*"child" + 0.029*"people" + 0.028*"offer" + 0.026*"build" + 0.017*"priest" + 0.014*"bring" + 0.012*"set" + 0.011*"month" + 0.011*"silver" + 0.011*"give"')
+(3, '0.003*"child" + 0.003*"pure" + 0.003*"pull" + 0.003*"realm" + 0.003*"read" + 0.003*"ram" + 0.003*"rain" + 0.003*"put" + 0.003*"purpose" + 0.003*"purify"')
+(4, '0.003*"child" + 0.003*"offer" + 0.003*"people" + 0.003*"build" + 0.003*"priest" + 0.003*"realm" + 0.003*"purpose" + 0.003*"ram" + 0.003*"rain" + 0.003*"read"')

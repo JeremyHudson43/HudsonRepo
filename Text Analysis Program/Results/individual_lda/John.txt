@@ -1,0 +1,5 @@
+(0, '0.002*"man" + 0.002*"receive" + 0.002*"hear" + 0.002*"dead" + 0.002*"day" + 0.002*"verily" + 0.002*"true" + 0.002*"son" + 0.002*"water" + 0.002*"call"')
+(1, '0.002*"word" + 0.002*"love" + 0.002*"give" + 0.002*"hear" + 0.002*"answer" + 0.002*"man" + 0.002*"receive" + 0.002*"call" + 0.002*"people" + 0.002*"dead"')
+(2, '0.029*"man" + 0.024*"answer" + 0.021*"verily" + 0.020*"hear" + 0.018*"give" + 0.017*"word" + 0.013*"love" + 0.012*"receive" + 0.012*"call" + 0.011*"lie"')
+(3, '0.002*"man" + 0.002*"word" + 0.002*"hear" + 0.002*"love" + 0.002*"verily" + 0.002*"answer" + 0.002*"lie" + 0.002*"give" + 0.002*"fulfil" + 0.002*"place"')
+(4, '0.002*"man" + 0.002*"answer" + 0.002*"give" + 0.002*"word" + 0.002*"hear" + 0.002*"people" + 0.002*"verily" + 0.002*"call" + 0.002*"scripture" + 0.002*"sin"')

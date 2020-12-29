@@ -1,0 +1,5 @@
+(0, '0.002*"bring" + 0.002*"stand" + 0.002*"interpretation" + 0.002*"time" + 0.002*"man" + 0.002*"kingdom" + 0.002*"head" + 0.002*"hear" + 0.002*"king" + 0.002*"fiery"')
+(1, '0.002*"time" + 0.002*"people" + 0.002*"great" + 0.002*"stand" + 0.002*"man" + 0.002*"purge" + 0.002*"purify" + 0.002*"push" + 0.002*"put" + 0.002*"rage"')
+(2, '0.002*"understand" + 0.002*"man" + 0.002*"fall" + 0.002*"people" + 0.002*"time" + 0.002*"great" + 0.002*"bring" + 0.002*"dominion" + 0.002*"set" + 0.002*"interpretation"')
+(3, '0.002*"time" + 0.002*"stand" + 0.002*"great" + 0.002*"people" + 0.002*"interpretation" + 0.002*"set" + 0.002*"man" + 0.002*"vision" + 0.002*"word" + 0.002*"bring"')
+(4, '0.019*"stand" + 0.019*"man" + 0.018*"time" + 0.017*"great" + 0.014*"vision" + 0.014*"bring" + 0.012*"people" + 0.012*"interpretation" + 0.011*"set" + 0.010*"word"')

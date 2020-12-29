@@ -1,0 +1,5 @@
+(0, '0.040*"good" + 0.032*"work" + 0.032*"man" + 0.017*"faith" + 0.017*"teach" + 0.017*"sober" + 0.013*"sound" + 0.013*"pure" + 0.013*"chapter" + 0.013*"husband"')
+(1, '0.006*"reject" + 0.006*"reprobate" + 0.006*"pure" + 0.006*"purify" + 0.006*"put" + 0.006*"question" + 0.006*"ready" + 0.006*"regeneration" + 0.006*"profitable" + 0.006*"renew"')
+(2, '0.006*"reject" + 0.006*"reprobate" + 0.006*"pure" + 0.006*"purify" + 0.006*"put" + 0.006*"question" + 0.006*"ready" + 0.006*"regeneration" + 0.006*"profitable" + 0.006*"renew"')
+(3, '0.006*"reject" + 0.006*"reprobate" + 0.006*"pure" + 0.006*"purify" + 0.006*"put" + 0.006*"question" + 0.006*"ready" + 0.006*"regeneration" + 0.006*"profitable" + 0.006*"renew"')
+(4, '0.006*"reject" + 0.006*"reprobate" + 0.006*"pure" + 0.006*"purify" + 0.006*"put" + 0.006*"question" + 0.006*"ready" + 0.006*"regeneration" + 0.006*"profitable" + 0.006*"renew"')

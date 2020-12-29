@@ -1,0 +1,5 @@
+(0, '0.002*"reckon" + 0.002*"refine" + 0.002*"raise" + 0.002*"rank" + 0.002*"ready" + 0.002*"receive" + 0.002*"quietness" + 0.002*"redeem" + 0.002*"remember" + 0.002*"rejoice"')
+(1, '0.002*"son" + 0.002*"child" + 0.002*"people" + 0.002*"offer" + 0.002*"bring" + 0.002*"give" + 0.002*"man" + 0.002*"build" + 0.002*"number" + 0.002*"servant"')
+(2, '0.002*"people" + 0.002*"son" + 0.002*"child" + 0.002*"give" + 0.002*"rank" + 0.002*"ready" + 0.002*"receive" + 0.002*"reckon" + 0.002*"refine" + 0.002*"rejoice"')
+(3, '0.035*"son" + 0.027*"people" + 0.026*"child" + 0.023*"give" + 0.021*"man" + 0.020*"bring" + 0.016*"offer" + 0.014*"servant" + 0.012*"build" + 0.010*"gold"')
+(4, '0.002*"son" + 0.002*"man" + 0.002*"child" + 0.002*"give" + 0.002*"bring" + 0.002*"people" + 0.002*"rank" + 0.002*"raise" + 0.002*"remain" + 0.002*"remember"')

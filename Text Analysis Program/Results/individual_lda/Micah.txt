@@ -1,0 +1,5 @@
+(0, '0.004*"people" + 0.004*"man" + 0.004*"prophesy" + 0.004*"ram" + 0.004*"raise" + 0.004*"put" + 0.004*"pure" + 0.004*"pull" + 0.004*"prophet" + 0.004*"rebuke"')
+(1, '0.034*"people" + 0.025*"man" + 0.013*"gather" + 0.012*"daughter" + 0.012*"lie" + 0.010*"chapter" + 0.010*"cut" + 0.010*"bring" + 0.010*"strong" + 0.008*"high"')
+(2, '0.004*"people" + 0.004*"prophesy" + 0.004*"ram" + 0.004*"raise" + 0.004*"put" + 0.004*"pure" + 0.004*"pull" + 0.004*"prophet" + 0.004*"rebuke" + 0.004*"practise"')
+(3, '0.004*"prophet" + 0.004*"principal" + 0.004*"ram" + 0.004*"raise" + 0.004*"put" + 0.004*"pure" + 0.004*"pull" + 0.004*"rebuke" + 0.004*"prophesy" + 0.004*"power"')
+(4, '0.004*"people" + 0.004*"man" + 0.004*"prophesy" + 0.004*"ram" + 0.004*"raise" + 0.004*"put" + 0.004*"pure" + 0.004*"pull" + 0.004*"prophet" + 0.004*"rebuke"')

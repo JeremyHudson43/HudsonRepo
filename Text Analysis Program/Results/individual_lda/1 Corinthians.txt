@@ -1,0 +1,5 @@
+(0, '0.002*"eat" + 0.002*"member" + 0.002*"body" + 0.002*"man" + 0.002*"question" + 0.002*"quicken" + 0.002*"quit" + 0.002*"race" + 0.002*"raise" + 0.002*"railer"')
+(1, '0.037*"man" + 0.024*"body" + 0.016*"eat" + 0.015*"speak" + 0.012*"member" + 0.012*"glory" + 0.012*"call" + 0.011*"write" + 0.011*"brother" + 0.010*"dead"')
+(2, '0.002*"man" + 0.002*"body" + 0.002*"put" + 0.002*"law" + 0.002*"church" + 0.002*"weak" + 0.002*"wife" + 0.002*"raise" + 0.002*"bring" + 0.002*"speak"')
+(3, '0.002*"eat" + 0.002*"body" + 0.002*"man" + 0.002*"raise" + 0.002*"question" + 0.002*"quicken" + 0.002*"quit" + 0.002*"race" + 0.002*"puff" + 0.002*"railer"')
+(4, '0.002*"man" + 0.002*"call" + 0.002*"speak" + 0.002*"body" + 0.002*"chapter" + 0.002*"put" + 0.002*"knowledge" + 0.002*"church" + 0.002*"dead" + 0.002*"raise"')

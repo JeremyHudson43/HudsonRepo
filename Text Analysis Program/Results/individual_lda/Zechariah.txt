@@ -1,0 +1,5 @@
+(0, '0.003*"host" + 0.003*"land" + 0.003*"stand" + 0.003*"people" + 0.003*"cut" + 0.003*"eye" + 0.003*"word" + 0.003*"redeem" + 0.003*"refine" + 0.003*"red"')
+(1, '0.033*"host" + 0.022*"people" + 0.017*"word" + 0.016*"eye" + 0.015*"cut" + 0.013*"hand" + 0.013*"stand" + 0.012*"land" + 0.012*"day" + 0.012*"man"')
+(2, '0.003*"host" + 0.003*"hand" + 0.003*"behold" + 0.003*"turn" + 0.003*"people" + 0.003*"eye" + 0.003*"stand" + 0.003*"land" + 0.003*"day" + 0.003*"nation"')
+(3, '0.003*"eye" + 0.003*"horse" + 0.003*"people" + 0.003*"cut" + 0.003*"host" + 0.003*"prophet" + 0.003*"rejoice" + 0.003*"refined" + 0.003*"refuse" + 0.003*"redeem"')
+(4, '0.003*"host" + 0.003*"hand" + 0.003*"pass" + 0.003*"bring" + 0.003*"stand" + 0.003*"day" + 0.003*"land" + 0.003*"cut" + 0.003*"people" + 0.003*"word"')

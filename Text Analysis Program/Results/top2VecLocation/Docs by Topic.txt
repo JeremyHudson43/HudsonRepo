@@ -1,0 +1,137 @@
+Documents most similar to given topic number
+
+Document: 10, Score: 0.5849789977073669
+-----------
+THE SECOND EPISTLE OF JOHN CHAPTER 1 1 The elder unto the elect lady and her children, whom I love i
+-----------
+
+Document: 55, Score: 0.5729649662971497
+-----------
+THE EPISTLE OF PAUL TO PHILEMON CHAPTER 1 1 Paul, a prisoner of Jesus Christ, and Timothy our brothe
+-----------
+
+Document: 19, Score: 0.5629173517227173
+-----------
+THE EPISTLE OF PAUL THE APOSTLE TO THE COLOSSIANS CHAPTER 1 1 Paul, an apostle of Jesus Christ by th
+-----------
+
+Document: 6, Score: 0.557898759841919
+-----------
+THE FIRST EPISTLE OF PAUL THE APOSTLE TO THE THESSALONIANS CHAPTER 1 1 Paul, and Silvanus, and Timot
+-----------
+
+Document: 14, Score: 0.5514589548110962
+-----------
+THE SECOND EPISTLE OF PAUL THE APOSTLE TO THE THESSALONIANS CHAPTER 1 1 Paul, and Silvanus, and Timo
+-----------
+
+Document: 15, Score: 0.5454856157302856
+-----------
+THE SECOND EPISTLE OF PAUL THE APOSTLE TO TIMOTHY CHAPTER 1 1 Paul, an apostle of Jesus Christ by th
+-----------
+
+Document: 56, Score: 0.5403866171836853
+-----------
+THE EPISTLE OF PAUL THE APOSTLE TO THE PHILIPPIANS CHAPTER 1 1 Paul and Timotheus, the servants of J
+-----------
+
+Document: 63, Score: 0.5213287472724915
+-----------
+THE EPISTLE OF PAUL TO TITUS CHAPTER 1 1 Paul, a servant of God, and an apostle of Jesus Christ, acc
+-----------
+
+Document: 23, Score: 0.5207499265670776
+-----------
+THE EPISTLE OF PAUL THE APOSTLE TO THE EPHESIANS CHAPTER 1 1 Paul, an apostle of Jesus Christ by the
+-----------
+
+Document: 16, Score: 0.49272283911705017
+-----------
+THE THIRD EPISTLE OF JOHN CHAPTER 1 1 The elder unto the wellbeloved Gaius, whom I love in the truth
+-----------
+
+Document: 7, Score: 0.4842948019504547
+-----------
+THE FIRST EPISTLE OF PAUL THE APOSTLE TO TIMOTHY CHAPTER 1 1 Paul, an apostle of Jesus Christ by the
+-----------
+
+Document: 42, Score: 0.47586748003959656
+-----------
+THE GENERAL EPISTLE OF JUDE CHAPTER 1 1 Jude, the servant of Jesus Christ, and brother of James, to 
+-----------
+
+Document: 4, Score: 0.47496894001960754
+-----------
+THE FIRST EPISTLE GENERAL OF PETER CHAPTER 1 1 Peter, an apostle of Jesus Christ, to the strangers s
+-----------
+
+Document: 9, Score: 0.47189104557037354
+-----------
+THE SECOND EPISTLE OF PAUL THE APOSTLE TO THE CORINTHIANS CHAPTER 1 1 Paul, an apostle of Jesus Chri
+-----------
+
+Document: 60, Score: 0.45840615034103394
+-----------
+THE EPISTLE OF PAUL THE APOSTLE TO THE ROMANS CHAPTER 1 1 Paul, a servant of Jesus Christ, called to
+-----------
+
+Document: 2, Score: 0.45764973759651184
+-----------
+THE FIRST GENERAL EPISTLE OF JOHN CHAPTER 1 1 That which was from the beginning, which we have heard
+-----------
+
+Document: 28, Score: 0.44000184535980225
+-----------
+THE EPISTLE OF PAUL THE APOSTLE TO THE GALATIANS CHAPTER 1 1 Paul, an apostle, (not of men, neither 
+-----------
+
+Document: 1, Score: 0.43834346532821655
+-----------
+THE FIRST EPISTLE OF PAUL THE APOSTLE TO THE CORINTHIANS CHAPTER 1 1 Paul, called to be an apostle o
+-----------
+
+Document: 12, Score: 0.4376108646392822
+-----------
+THE SECOND EPISTLE GENERAL OF PETER CHAPTER 1 1 Simon Peter, a servant and an apostle of Jesus Chris
+-----------
+
+Document: 32, Score: 0.35200807452201843
+-----------
+THE EPISTLE OF PAUL THE APOSTLE TO THE HEBREWS CHAPTER 1 1 God, who at sundry times and in divers ma
+-----------
+
+Document: 35, Score: 0.33470866084098816
+-----------
+THE GENERAL EPISTLE OF JAMES CHAPTER 1 1 James, a servant of God and of the Lord Jesus Christ, to th
+-----------
+
+Document: 59, Score: 0.23684372007846832
+-----------
+THE REVELATION OF SAINT JOHN THE DIVINE CHAPTER 1 1 The Revelation of Jesus Christ, which God gave u
+-----------
+
+Document: 17, Score: 0.22781658172607422
+-----------
+THE ACTS OF THE APOSTLES CHAPTER 1 1 The former treatise have I made, O Theophilus, of all that Jesu
+-----------
+
+Document: 39, Score: 0.19201871752738953
+-----------
+THE GOSPEL ACCORDING TO SAINT JOHN CHAPTER 1 1 In the beginning was the Word, and the Word was with 
+-----------
+
+Document: 48, Score: 0.18990342319011688
+-----------
+THE GOSPEL ACCORDING TO SAINT MARK CHAPTER 1 1 The beginning of the gospel of Jesus Christ, the Son 
+-----------
+
+Document: 49, Score: 0.17457887530326843
+-----------
+THE GOSPEL ACCORDING TO SAINT MATTHEW CHAPTER 1 1 The book of the generation of Jesus Christ, the so
+-----------
+
+Document: 46, Score: 0.16116051375865936
+-----------
+THE GOSPEL ACCORDING TO SAINT LUKE CHAPTER 1 1 Forasmuch as many have taken in hand to set forth in 
+-----------
+

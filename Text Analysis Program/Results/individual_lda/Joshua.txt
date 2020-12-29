@@ -1,0 +1,5 @@
+(0, '0.002*"child" + 0.002*"give" + 0.002*"pass" + 0.002*"man" + 0.002*"people" + 0.002*"land" + 0.002*"rest" + 0.002*"rent" + 0.002*"require" + 0.002*"remnant"')
+(1, '0.002*"child" + 0.002*"people" + 0.002*"land" + 0.002*"give" + 0.002*"pass" + 0.002*"require" + 0.002*"remnant" + 0.002*"remove" + 0.002*"rent" + 0.002*"reubenite"')
+(2, '0.002*"child" + 0.002*"give" + 0.002*"people" + 0.002*"remove" + 0.002*"rent" + 0.002*"require" + 0.002*"rest" + 0.002*"remember" + 0.002*"return" + 0.002*"riche"')
+(3, '0.077*"child" + 0.032*"people" + 0.025*"give" + 0.023*"land" + 0.020*"pass" + 0.017*"man" + 0.015*"family" + 0.014*"side" + 0.013*"city" + 0.013*"bring"')
+(4, '0.002*"child" + 0.002*"people" + 0.002*"return" + 0.002*"remnant" + 0.002*"remove" + 0.002*"rent" + 0.002*"require" + 0.002*"remain" + 0.002*"rest" + 0.002*"riche"')
