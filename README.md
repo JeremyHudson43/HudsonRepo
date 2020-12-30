@@ -9,9 +9,9 @@ Hello, and welcome to my GitHub. I've written the following programs for fun and
 ``Network Simulator`` - Simulates the transmission of a packet across a network. Currently implements a fully functioning TCP packet with complete checksum calculation. 
 
  ## SQL / PHP
-``Sample Company Database`` - Simulates a simple company database implementing SQL and using PHP as a backend. Contains script used to populate initial SQL tables in the file InsertValues.
+``Sample Company Database`` - Simulates a simple company database implementing SQL and using PHP as a backend. 
 
-The project is at the following link, although foreign key constraints may not work due to the hosting service using an old version of SQL:
+The project is at the following link, although foreign key constraints / birthday verification may not work due to the hosting service using an old version of SQL:
 
 http://jeremyhudson471.c1.biz/
 
