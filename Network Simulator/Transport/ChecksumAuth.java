@@ -1,4 +1,4 @@
-package checksumauth;
+package transport;
 
 public class ChecksumAuth {
 
