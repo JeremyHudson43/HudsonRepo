@@ -1,4 +1,4 @@
-package Models;
+package Network;
 
 import static Models.Simulator.frame;
 import java.awt.Color;
