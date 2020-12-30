@@ -16,7 +16,8 @@ try {
     echo $sql . "<br>" . $error->getMessage();
 }
 ?>
-<?php require "templates/header.php"; ?>
+
+<?php require "../templates/header.php"; ?>
         
 <h2>Update Employee</h2>
 
@@ -53,5 +54,4 @@ try {
 
     <tr>
     </tr>
-
-<?php require "templates/footer.php"; ?>
+<?php require "../templates/footer.php"; ?>
