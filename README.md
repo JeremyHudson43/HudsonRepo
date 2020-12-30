@@ -21,9 +21,9 @@ http://jeremyhudson471.c1.biz/
 
  ## Group Project Repositories I have contributed to
  
+ 
+ ## PodKnow
  https://github.com/UNCG-CSE/Podknow
  
- https://github.com/jamisonvalentine/CSC490-Capstone-Project  (Hosted at https://uncgtransfer.herokuapp.com/)
- 
- https://github.com/JeremyHudson43/CSC-340-Project
-
+ ## Community College Transfer Tool
+ https://github.com/jamisonvalentine/CSC490-Capstone-Project  (Hosted at https://uncgtransfer.herokuapp.com/
