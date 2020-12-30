@@ -1,4 +1,4 @@
-# HudsonRep
+# HudsonRepo
 Hello, and welcome to my GitHub. I've written the following programs for fun and to practice my programming skills. My work is organized by folder, please read below for more information. 
 
  ## Java Swing
