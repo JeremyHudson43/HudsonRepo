@@ -1,7 +1,3 @@
-# Most of this code was found from the following link:
-# https://programminghistorian.org/en/lessons/analyzing-documents-with-tfidf
-
-# import the TfidfVectorizer from Scikit-Learn.
 from sklearn.feature_extraction.text import TfidfVectorizer
 from IndividualLDA import *
 
