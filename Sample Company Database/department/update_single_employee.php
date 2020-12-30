@@ -55,8 +55,7 @@ if (isset($_GET['SSN'])) {
 }
 ?>
 
-<?php require "templates/header.php"; ?>
-
+<?php require "../templates/header.php"; ?>
 
 <h2>Edit a user</h2>
 
@@ -73,4 +72,4 @@ if (isset($_GET['SSN'])) {
 <a href="index.php">Back to home</a>
 </br>
 
-<?php require "templates/footer.php"; ?>
+<?php require "../templates/footer.php"; ?>
