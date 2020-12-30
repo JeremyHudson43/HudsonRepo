@@ -6,9 +6,6 @@ require "../common.php";
 
 $success = null;
 
-if (isset($_POST["submit"])) {
-  if (!hash_equals($_SESSION['csrf'], $_POST['csrf'])) die();
-  
   try {
   $connection = new PDO($dsn, $username, $password, $options);
 
@@ -20,7 +17,11 @@ if (isset($_POST["submit"])) {
   $result = $statement->fetchAll();
 } catch(PDOException $error) {
   echo $sql . "<br>" . $error->getMessage();
-}
+  }
+
+
+if (isset($_POST["submit"])) {
+  if (!hash_equals($_SESSION['csrf'], $_POST['csrf'])) die();
 
   try {
     $connection = new PDO($dsn, $username, $password, $options);
@@ -37,7 +38,9 @@ if (isset($_POST["submit"])) {
   } catch(PDOException $error) {
     echo $sql . "<br>" . $error->getMessage();
   }
-}
+  }
+
+
 
 ?>
 <?php require "templates/header.php"; ?>
@@ -75,4 +78,3 @@ if (isset($_POST["submit"])) {
 </br>
 
 <?php require "templates/footer.php"; ?>
-
