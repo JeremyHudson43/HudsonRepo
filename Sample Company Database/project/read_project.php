@@ -24,7 +24,7 @@ if (isset($_POST['submit'])) {
     }
 }
 ?>
-<?php require "templates/header.php"; ?>
+<?php require "../templates/header.php"; ?>
         
 <?php  
 if (isset($_POST['submit'])) {
@@ -65,5 +65,4 @@ if (isset($_POST['submit'])) {
 <br>
 <a href="index.php">Back to home</a>
 </br>
-
-<?php require "templates/footer.php"; ?>
+<?php require "../templates/footer.php"; ?>
