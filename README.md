@@ -26,4 +26,4 @@ http://jeremyhudson471.c1.biz/
  https://github.com/UNCG-CSE/Podknow
  
  ## Community College Transfer Tool
- https://github.com/jamisonvalentine/CSC490-Capstone-Project  (Hosted at https://uncgtransfer.herokuapp.com/
+ https://github.com/jamisonvalentine/CSC490-Capstone-Project  (Hosted at https://uncgtransfer.herokuapp.com/)
