@@ -17,7 +17,7 @@ http://jeremyhudson471.c1.biz/
 
  ## Python 
  
-``Text Analysis Program`` - Uses a variety of natural language processing techniques to analyze a collection of text files. These include a few implementations of LDA models, TF-IDF models, and deep learning using Top2Vec. Results from running the program on the King James Bible can be found in the "Results" folder inside the "Text Analysis Program" folder. 
+``Text Analysis Program`` - Uses a variety of natural language processing techniques to analyze a collection of text files. These include a few implementations of LDA models, TF-IDF models, bigrams, raw word frequency and deep learning using Top2Vec. Results from running the program on the King James Bible can be found in the "Results" folder inside the "Text Analysis Program" folder. 
 
  ## Group Project Repositories I have contributed to
  
