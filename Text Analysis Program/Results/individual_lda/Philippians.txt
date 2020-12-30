@@ -1,5 +1,5 @@
 (0, '0.005*"presently" + 0.005*"preach" + 0.005*"reach" + 0.005*"pure" + 0.005*"press" + 0.005*"record" + 0.005*"presence" + 0.005*"pleasure" + 0.005*"praise" + 0.005*"report"')
-(1, '0.005*"presently" + 0.005*"preach" + 0.005*"reach" + 0.005*"pure" + 0.005*"press" + 0.005*"record" + 0.005*"presence" + 0.005*"pleasure" + 0.005*"praise" + 0.005*"report"')
+(1, '0.019*"mind" + 0.019*"whatsoever" + 0.019*"rejoice" + 0.014*"death" + 0.014*"good" + 0.011*"receive" + 0.011*"man" + 0.011*"bond" + 0.011*"suffer" + 0.011*"work"')
 (2, '0.005*"presently" + 0.005*"preach" + 0.005*"reach" + 0.005*"pure" + 0.005*"press" + 0.005*"record" + 0.005*"presence" + 0.005*"pleasure" + 0.005*"praise" + 0.005*"report"')
-(3, '0.019*"mind" + 0.019*"whatsoever" + 0.019*"rejoice" + 0.014*"death" + 0.014*"good" + 0.011*"receive" + 0.011*"man" + 0.011*"bond" + 0.011*"suffer" + 0.011*"work"')
-(4, '0.005*"presently" + 0.005*"preach" + 0.005*"reach" + 0.005*"pure" + 0.005*"press" + 0.005*"record" + 0.005*"presence" + 0.005*"pleasure" + 0.005*"praise" + 0.005*"report"')
+(3, '0.005*"presently" + 0.005*"preach" + 0.005*"reach" + 0.005*"pure" + 0.005*"press" + 0.005*"record" + 0.005*"presence" + 0.005*"pleasure" + 0.005*"praise" + 0.005*"report"')
+(4, '0.005*"rejoice" + 0.005*"presently" + 0.005*"receive" + 0.005*"reach" + 0.005*"pure" + 0.005*"press" + 0.005*"presence" + 0.005*"pleasure" + 0.005*"prayer" + 0.005*"report"')

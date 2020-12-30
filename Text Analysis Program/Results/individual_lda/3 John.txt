@@ -1,5 +1,5 @@
-(0, '0.021*"record" + 0.021*"receive" + 0.021*"report" + 0.021*"remember" + 0.021*"rejoice" + 0.021*"shortly" + 0.021*"peace" + 0.021*"pen" + 0.021*"speak" + 0.021*"prate"')
+(0, '0.050*"good" + 0.050*"write" + 0.034*"doeth" + 0.034*"face" + 0.034*"friend" + 0.034*"church" + 0.019*"sake" + 0.019*"receive" + 0.019*"shortly" + 0.019*"rejoice"')
 (1, '0.021*"record" + 0.021*"receive" + 0.021*"report" + 0.021*"remember" + 0.021*"rejoice" + 0.021*"shortly" + 0.021*"peace" + 0.021*"pen" + 0.021*"speak" + 0.021*"prate"')
-(2, '0.050*"good" + 0.050*"write" + 0.034*"doeth" + 0.034*"face" + 0.034*"friend" + 0.034*"church" + 0.019*"sake" + 0.019*"receive" + 0.019*"shortly" + 0.019*"rejoice"')
+(2, '0.021*"record" + 0.021*"receive" + 0.021*"report" + 0.021*"remember" + 0.021*"rejoice" + 0.021*"shortly" + 0.021*"peace" + 0.021*"pen" + 0.021*"speak" + 0.021*"prate"')
 (3, '0.021*"record" + 0.021*"receive" + 0.021*"report" + 0.021*"remember" + 0.021*"rejoice" + 0.021*"shortly" + 0.021*"peace" + 0.021*"pen" + 0.021*"speak" + 0.021*"prate"')
 (4, '0.021*"record" + 0.021*"receive" + 0.021*"report" + 0.021*"remember" + 0.021*"rejoice" + 0.021*"shortly" + 0.021*"peace" + 0.021*"pen" + 0.021*"speak" + 0.021*"prate"')

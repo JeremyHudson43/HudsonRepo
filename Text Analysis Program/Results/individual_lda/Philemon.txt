@@ -1,5 +1,5 @@
 (0, '0.023*"sake" + 0.023*"season" + 0.023*"necessity" + 0.023*"partner" + 0.023*"prayer" + 0.023*"profitable" + 0.023*"put" + 0.023*"receive" + 0.023*"repay" + 0.023*"retain"')
 (1, '0.023*"sake" + 0.023*"season" + 0.023*"necessity" + 0.023*"partner" + 0.023*"prayer" + 0.023*"profitable" + 0.023*"put" + 0.023*"receive" + 0.023*"repay" + 0.023*"retain"')
-(2, '0.053*"write" + 0.053*"servant" + 0.036*"brother" + 0.036*"receive" + 0.036*"prayer" + 0.036*"love" + 0.020*"retain" + 0.020*"put" + 0.020*"partner" + 0.020*"profitable"')
-(3, '0.023*"love" + 0.023*"servant" + 0.023*"receive" + 0.023*"put" + 0.023*"repay" + 0.023*"retain" + 0.023*"necessity" + 0.023*"partner" + 0.023*"season" + 0.023*"prayer"')
+(2, '0.053*"write" + 0.053*"servant" + 0.036*"receive" + 0.036*"prayer" + 0.036*"love" + 0.036*"brother" + 0.020*"retain" + 0.020*"put" + 0.020*"partner" + 0.020*"profitable"')
+(3, '0.023*"sake" + 0.023*"season" + 0.023*"necessity" + 0.023*"partner" + 0.023*"prayer" + 0.023*"profitable" + 0.023*"put" + 0.023*"receive" + 0.023*"repay" + 0.023*"retain"')
 (4, '0.023*"sake" + 0.023*"season" + 0.023*"necessity" + 0.023*"partner" + 0.023*"prayer" + 0.023*"profitable" + 0.023*"put" + 0.023*"receive" + 0.023*"repay" + 0.023*"retain"')

@@ -1,5 +1,5 @@
-(0, '0.034*"man" + 0.024*"word" + 0.020*"faith" + 0.017*"night" + 0.017*"child" + 0.017*"sleep" + 0.014*"brother" + 0.014*"wherefore" + 0.014*"chapter" + 0.014*"receive"')
+(0, '0.006*"man" + 0.006*"raise" + 0.006*"receive" + 0.006*"presence" + 0.006*"preserve" + 0.006*"prophesy" + 0.006*"prophet" + 0.006*"prove" + 0.006*"put" + 0.006*"quiet"')
 (1, '0.006*"raise" + 0.006*"receive" + 0.006*"presence" + 0.006*"preserve" + 0.006*"prophesy" + 0.006*"prophet" + 0.006*"prove" + 0.006*"put" + 0.006*"quiet" + 0.006*"pray"')
-(2, '0.006*"faith" + 0.006*"word" + 0.006*"chapter" + 0.006*"man" + 0.006*"prove" + 0.006*"quiet" + 0.006*"put" + 0.006*"raise" + 0.006*"preserve" + 0.006*"prophet"')
-(3, '0.006*"raise" + 0.006*"receive" + 0.006*"presence" + 0.006*"preserve" + 0.006*"prophesy" + 0.006*"prophet" + 0.006*"prove" + 0.006*"put" + 0.006*"quiet" + 0.006*"pray"')
+(2, '0.006*"man" + 0.006*"raise" + 0.006*"receive" + 0.006*"presence" + 0.006*"preserve" + 0.006*"prophesy" + 0.006*"prophet" + 0.006*"prove" + 0.006*"put" + 0.006*"quiet"')
+(3, '0.034*"man" + 0.024*"word" + 0.020*"faith" + 0.017*"night" + 0.017*"child" + 0.017*"sleep" + 0.014*"brother" + 0.014*"wherefore" + 0.014*"chapter" + 0.014*"receive"')
 (4, '0.006*"raise" + 0.006*"receive" + 0.006*"presence" + 0.006*"preserve" + 0.006*"prophesy" + 0.006*"prophet" + 0.006*"prove" + 0.006*"put" + 0.006*"quiet" + 0.006*"pray"')

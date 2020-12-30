@@ -1,5 +1,5 @@
-(0, '0.004*"pleasing" + 0.004*"physician" + 0.004*"preeminence" + 0.004*"preach" + 0.004*"prayer" + 0.004*"power" + 0.004*"principality" + 0.004*"perfect" + 0.004*"person" + 0.004*"puff"')
-(1, '0.004*"man" + 0.004*"power" + 0.004*"pleasing" + 0.004*"preeminence" + 0.004*"preach" + 0.004*"prayer" + 0.004*"principality" + 0.004*"perish" + 0.004*"philosophy" + 0.004*"put"')
+(0, '0.004*"man" + 0.004*"power" + 0.004*"pleasing" + 0.004*"preeminence" + 0.004*"preach" + 0.004*"prayer" + 0.004*"principality" + 0.004*"perish" + 0.004*"philosophy" + 0.004*"put"')
+(1, '0.028*"man" + 0.020*"body" + 0.018*"flesh" + 0.015*"put" + 0.013*"faith" + 0.013*"word" + 0.013*"receive" + 0.013*"heart" + 0.013*"dead" + 0.010*"power"')
 (2, '0.004*"pleasing" + 0.004*"physician" + 0.004*"preeminence" + 0.004*"preach" + 0.004*"prayer" + 0.004*"power" + 0.004*"principality" + 0.004*"perfect" + 0.004*"person" + 0.004*"puff"')
 (3, '0.004*"pleasing" + 0.004*"physician" + 0.004*"preeminence" + 0.004*"preach" + 0.004*"prayer" + 0.004*"power" + 0.004*"principality" + 0.004*"perfect" + 0.004*"person" + 0.004*"puff"')
-(4, '0.028*"man" + 0.020*"body" + 0.018*"flesh" + 0.015*"put" + 0.013*"faith" + 0.013*"word" + 0.013*"receive" + 0.013*"heart" + 0.013*"dead" + 0.010*"power"')
+(4, '0.004*"man" + 0.004*"power" + 0.004*"pleasing" + 0.004*"preeminence" + 0.004*"preach" + 0.004*"prayer" + 0.004*"principality" + 0.004*"perish" + 0.004*"philosophy" + 0.004*"put"')

@@ -1,5 +1,5 @@
 (0, '0.011*"reveal" + 0.011*"righteous" + 0.011*"presence" + 0.011*"receive" + 0.011*"remember" + 0.011*"power" + 0.011*"shake" + 0.011*"send" + 0.011*"pleasure" + 0.011*"save"')
 (1, '0.011*"reveal" + 0.011*"righteous" + 0.011*"presence" + 0.011*"receive" + 0.011*"remember" + 0.011*"power" + 0.011*"shake" + 0.011*"send" + 0.011*"pleasure" + 0.011*"save"')
-(2, '0.011*"reveal" + 0.011*"righteous" + 0.011*"presence" + 0.011*"receive" + 0.011*"remember" + 0.011*"power" + 0.011*"shake" + 0.011*"send" + 0.011*"pleasure" + 0.011*"save"')
-(3, '0.045*"work" + 0.033*"man" + 0.026*"reveal" + 0.026*"word" + 0.020*"truth" + 0.020*"eat" + 0.020*"call" + 0.020*"disorderly" + 0.014*"tribulation" + 0.014*"give"')
+(2, '0.045*"work" + 0.033*"man" + 0.026*"reveal" + 0.026*"word" + 0.020*"truth" + 0.020*"eat" + 0.020*"call" + 0.020*"disorderly" + 0.014*"tribulation" + 0.014*"give"')
+(3, '0.011*"reveal" + 0.011*"righteous" + 0.011*"presence" + 0.011*"receive" + 0.011*"remember" + 0.011*"power" + 0.011*"shake" + 0.011*"send" + 0.011*"pleasure" + 0.011*"save"')
 (4, '0.011*"reveal" + 0.011*"righteous" + 0.011*"presence" + 0.011*"receive" + 0.011*"remember" + 0.011*"power" + 0.011*"shake" + 0.011*"send" + 0.011*"pleasure" + 0.011*"save"')

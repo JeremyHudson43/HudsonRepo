@@ -1,0 +1,67 @@
+,Document_No,Dominant_Topic,Topic_Perc_Contrib,Keywords,Text
+0,0,3.0,0.9995999932289124,"son, man, child, father, give, bring, servant, build, captain, chief",1 Chronicles.txt
+1,1,105.0,0.6636000275611877,"man, great, beast, write, angel, hear, voice, earth, power, eat",1 Corinthians.txt
+2,2,201.0,0.2879999876022339,"answer, man, verily, hear, son, word, disciple, give, life, love",1 John.txt
+3,3,103.0,0.40689998865127563,"king, year, servant, reign, bring, burn, priest, build, word, city",1 Kings.txt
+4,4,250.0,0.9965000152587891,"man, word, good, call, speak, suffer, work, glory, evil, sin",1 Peter.txt
+5,5,215.0,0.5220999717712402,"man, hand, bring, day, hear, deliver, great, stand, word, place",1 Samuel.txt
+6,6,217.0,0.9934999942779541,"man, word, faith, night, chapter, child, brother, sleep, receive, love",1 Thessalonians.txt
+7,7,252.0,0.5519000291824341,"good, faith, man, give, woman, doctrine, teach, meditate, widow, faithful",1 Timothy.txt
+8,8,103.0,0.3458000123500824,"king, year, servant, reign, bring, burn, priest, build, word, city",2 Chronicles.txt
+9,9,145.0,0.9160000085830688,"glory, man, love, write, receive, chapter, wherefore, speak, mind, measure",2 Corinthians.txt
+10,10,133.0,0.9581000208854675,"love, write, child, commandment, walk, hear, truth, receive, face, deed",2 John.txt
+11,11,103.0,0.5760999917984009,"king, year, servant, reign, bring, burn, priest, build, word, city",2 Kings.txt
+12,12,196.0,0.994700014591217,"day, ungodly, speak, knowledge, man, word, reserve, judgment, great, bring",2 Peter.txt
+13,13,215.0,0.3935999870300293,"man, hand, bring, day, hear, deliver, great, stand, word, place",2 Samuel.txt
+14,14,122.0,0.9883000254631042,"work, man, tradition, word, good, pen, brother, truth, reveal, church",2 Thessalonians.txt
+15,15,59.0,0.6585999727249146,"man, faith, word, strive, remembrance, rightly, good, truth, turn, fully",2 Timothy.txt
+16,16,122.0,0.7053999900817871,"work, man, tradition, word, good, pen, brother, truth, reveal, church",3 John.txt
+17,17,141.0,0.5019000172615051,"man, hear, give, answer, day, call, disciple, enter, great, receive",Acts.txt
+18,18,184.0,0.4887999892234802,"land, child, day, eat, shalt, bring, give, destroy, hand, word",Amos.txt
+19,19,130.0,0.9951000213623047,"man, flesh, body, mystery, power, give, put, walk, fulness, love",Colossians.txt
+20,20,215.0,0.9210000038146973,"man, hand, bring, day, hear, deliver, great, stand, word, place",Daniel.txt
+21,21,184.0,0.7730000019073486,"land, child, day, eat, shalt, bring, give, destroy, hand, word",Deuteronomy.txt
+22,22,113.0,0.9390000104904175,"man, heart, wise, time, wisdom, vanity, good, fool, work, day",Ecclesiastes.txt
+23,23,145.0,0.42590001225471497,"glory, man, love, write, receive, chapter, wherefore, speak, mind, measure",Ephesians.txt
+24,24,93.0,0.7217000126838684,"king, day, write, province, month, command, destroy, commandment, esther, woman",Esther.txt
+25,25,131.0,0.7602999806404114,"child, man, give, bring, land, family, put, son, offer, day",Exodus.txt
+26,26,97.0,0.5788000226020813,"side, cubit, bring, land, measure, live, face, sword, thee, set",Ezekiel.txt
+27,27,51.0,0.9983999729156494,"child, son, priest, levite, build, man, bring, great, father, day",Ezra.txt
+28,28,174.0,0.8406000137329102,"law, faith, man, promise, flesh, gentile, church, circumcise, child, work",Galatians.txt
+29,29,27.0,0.8040000200271606,"son, year, give, man, call, land, bring, brother, day, daughter",Genesis.txt
+30,30,62.0,0.5885999798774719,"violence, work, tremble, glory, rejoice, power, drag, laid, net, horse",Habakkuk.txt
+31,31,67.0,0.9872000217437744,"host, answer, word, month, horse, son, priest, governor, prophet, bring",Haggai.txt
+32,32,250.0,0.32820001244544983,"man, word, good, call, speak, suffer, work, glory, evil, sin",Hebrews.txt
+33,33,184.0,0.48559999465942383,"land, child, day, eat, shalt, bring, give, destroy, hand, word",Hosea.txt
+34,34,215.0,0.5817999839782715,"man, hand, bring, day, hear, deliver, great, stand, word, place",Isaiah.txt
+35,35,250.0,0.6820999979972839,"man, word, good, call, speak, suffer, work, glory, evil, sin",James.txt
+36,36,176.0,0.44369998574256897,"word, city, land, man, son, evil, host, prophet, hear, nation",Jeremiah.txt
+37,37,215.0,0.6015999913215637,"man, hand, bring, day, hear, deliver, great, stand, word, place",Job.txt
+38,38,236.0,0.995199978351593,"thereof, wine, child, gather, day, nation, mountain, strong, land, tree",Joel.txt
+39,39,201.0,0.7063999772071838,"answer, man, verily, hear, son, word, disciple, give, life, love",John.txt
+40,40,73.0,0.9700999855995178,"cry, man, cast, great, day, angry, city, prepare, turn, evil",Jonah.txt
+41,41,131.0,0.7335000038146973,"child, man, give, bring, land, family, put, son, offer, day",Joshua.txt
+42,42,250.0,0.7519999742507935,"man, word, good, call, speak, suffer, work, glory, evil, sin",Jude.txt
+43,43,215.0,0.3732999861240387,"man, hand, bring, day, hear, deliver, great, stand, word, place",Judges.txt
+44,44,115.0,0.5561000108718872,"daughter, turn, child, hand, anger, street, man, young, enemy, eye",Lamentations.txt
+45,45,248.0,0.7236999869346619,"offer, burn, priest, offering, sin, unclean, blood, bring, eat, put",Leviticus.txt
+46,46,141.0,0.6718999743461609,"man, hear, give, answer, day, call, disciple, enter, great, receive",Luke.txt
+47,47,121.0,0.9936000108718872,"host, offer, curse, torn, treacherously, deal, fear, day, father, dung",Malachi.txt
+48,48,141.0,0.7148000001907349,"man, hear, give, answer, day, call, disciple, enter, great, receive",Mark.txt
+49,49,141.0,0.7365999817848206,"man, hear, give, answer, day, call, disciple, enter, great, receive",Matthew.txt
+50,50,236.0,0.3869999945163727,"thereof, wine, child, gather, day, nation, mountain, strong, land, tree",Micah.txt
+51,51,110.0,0.9937000274658203,"burst, sunder, strong, cut, man, enemy, marred, corpse, glitter, river",Nahum.txt
+52,52,51.0,0.9036999940872192,"child, son, priest, levite, build, man, bring, great, father, day",Nehemiah.txt
+53,53,131.0,0.8145999908447266,"child, man, give, bring, land, family, put, son, offer, day",Numbers.txt
+54,54,150.0,0.9819999933242798,"rumour, day, possess, man, bring, grapegatherer, cleft, confederacy, nest, deceive",Obadiah.txt
+55,55,145.0,0.9725000262260437,"glory, man, love, write, receive, chapter, wherefore, speak, mind, measure",Philemon.txt
+56,56,153.0,0.5288000106811523,"mind, rejoice, whatsoever, joy, death, state, attain, beware, flesh, bond",Philippians.txt
+57,57,187.0,0.7343000173568726,"heart, praise, man, wicked, mercy, soul, psalm, word, good, righteous",Proverbs.txt
+58,58,187.0,0.454800009727478,"heart, praise, man, wicked, mercy, soul, psalm, word, good, righteous",Psalms.txt
+59,59,105.0,0.742900013923645,"man, great, beast, write, angel, hear, voice, earth, power, eat",Revelation.txt
+60,60,144.0,0.6909000277519226,"law, sin, faith, man, death, dead, write, righteousness, good, gentile",Romans.txt
+61,61,37.0,0.9944000244140625,"man, servant, woman, answer, son, arise, return, young, dead, daughter",Ruth.txt
+62,62,46.0,0.9968000054359436,"beloved, love, daughter, breast, spice, smell, mother, chapter, flock, bring",SongofSolomon.txt
+63,63,108.0,0.9923999905586243,"good, man, work, exhort, faith, shew, teach, hope, accuser, sober",Titus.txt
+64,64,215.0,0.25209999084472656,"man, hand, bring, day, hear, deliver, great, stand, word, place",Zechariah.txt
+65,65,194.0,0.692799985408783,"day, desolation, cut, gather, man, time, lie, punish, rejoice, bring",Zephaniah.txt

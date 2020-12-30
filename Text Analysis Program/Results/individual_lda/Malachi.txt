@@ -1,5 +1,5 @@
 (0, '0.006*"remembrance" + 0.006*"righteous" + 0.006*"proud" + 0.006*"prove" + 0.006*"pure" + 0.006*"purifi" + 0.006*"put" + 0.006*"receive" + 0.006*"remember" + 0.006*"profit"')
-(1, '0.006*"remembrance" + 0.006*"righteous" + 0.006*"proud" + 0.006*"prove" + 0.006*"pure" + 0.006*"purifi" + 0.006*"put" + 0.006*"receive" + 0.006*"remember" + 0.006*"profit"')
-(2, '0.006*"remembrance" + 0.006*"righteous" + 0.006*"proud" + 0.006*"prove" + 0.006*"pure" + 0.006*"purifi" + 0.006*"put" + 0.006*"receive" + 0.006*"remember" + 0.006*"profit"')
-(3, '0.035*"host" + 0.031*"offer" + 0.021*"curse" + 0.018*"deal" + 0.018*"fear" + 0.014*"day" + 0.011*"law" + 0.011*"send" + 0.011*"love" + 0.011*"bring"')
+(1, '0.006*"host" + 0.006*"remember" + 0.006*"remembrance" + 0.006*"prophet" + 0.006*"proud" + 0.006*"prove" + 0.006*"pure" + 0.006*"purifi" + 0.006*"put" + 0.006*"receive"')
+(2, '0.035*"host" + 0.031*"offer" + 0.021*"curse" + 0.018*"fear" + 0.018*"deal" + 0.014*"day" + 0.011*"law" + 0.011*"turn" + 0.011*"treacherously" + 0.011*"call"')
+(3, '0.006*"offer" + 0.006*"host" + 0.006*"remember" + 0.006*"return" + 0.006*"proud" + 0.006*"prove" + 0.006*"pure" + 0.006*"purifi" + 0.006*"put" + 0.006*"receive"')
 (4, '0.006*"remembrance" + 0.006*"righteous" + 0.006*"proud" + 0.006*"prove" + 0.006*"pure" + 0.006*"purifi" + 0.006*"put" + 0.006*"receive" + 0.006*"remember" + 0.006*"profit"')
