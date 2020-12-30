@@ -1,4 +1,4 @@
-# Most of this code was found from the following link:
+# Some of this code was found from the following link:
 # https://www.machinelearningplus.com/nlp/topic-modeling-gensim-python/
 
 from IndividualLDA import *
