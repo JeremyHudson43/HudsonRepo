@@ -1,4 +1,4 @@
-package Models;
+package Ball;
 
 public class MoveBall {
 
