@@ -1,15 +1,12 @@
-import os
-import pandas as pd
-
 from nltk.corpus import stopwords
 
 import pyLDAvis
 import pyLDAvis.gensim
-
 import gensim
 import gensim.corpora as corpora
 from gensim.utils import simple_preprocess
-from gensim.models import CoherenceModel
+
+import os
 
 # import all paths from BuildData
 from BuildData import *
@@ -28,22 +25,12 @@ with open(str(base_path / 'data/stop words.txt'), 'r') as file:
     stop_words = [x.strip(' ') for x in stop_words]
 
 
-# gets a specified index and returns text data from dataframe
-def iterator(index):
-    labels = ['ID', 'Name', 'Date', 'topicName', 'scrubbedtext']
-    data = pd.DataFrame.from_records(results, columns=labels)
-
-    # isolate scrubbed text values and convert to lowercase to avoid duplicates
-    scrubbedData = str(data.iloc[index - 1:index, 4].values).lower().splitlines()
-
-    return scrubbedData
-
-
 # outputs an HTML file with pyLDAvis result
-def printToHTML(ldaModel, file, corpus, id2word):
+def printToHTML(ldaModel, fileName, corpus, id2word):
     try:
         lda_display = pyLDAvis.gensim.prepare(ldaModel, corpus, id2word, sort_topics=False)
-        htmlFileName = file.replace(".txt", ".html")
+
+        htmlFileName = fileName.replace(".txt", ".html")
         pyLDAvis.save_html(lda_display, str(ind_ldaLocation / htmlFileName))
     except:
         print("printToHTMLErorr")
@@ -66,7 +53,7 @@ def process_words(texts, stop_words=stop_words, allowed_postags=['NOUN', 'ADJ', 
     # remove stopwords
     texts = [[word for word in simple_preprocess(str(doc)) if word not in stop_words] for doc in texts]
     texts_out = []
-    nlp = spacy.load('en', disable=['parser', 'ner'])
+    nlp = spacy.load('en_core_web_sm', disable=['parser', 'ner'])
     # lemmatize
     for sent in texts:
         doc = nlp(" ".join(sent))
@@ -77,7 +64,7 @@ def process_words(texts, stop_words=stop_words, allowed_postags=['NOUN', 'ADJ', 
 
 
 # formats the data and produces a model as a result
-def formatDataAndModel(dataWords, fileName):
+def formatDataAndModel(dataWords, podcastName):
     data_ready = process_words(dataWords, allowed_postags=['NOUN', 'ADJ', 'VERB', 'ADV'])
 
     # maps IDs to words
@@ -96,8 +83,8 @@ def formatDataAndModel(dataWords, fileName):
 
     doc_lda = lda_model[corpus]
 
-    printToHTML(lda_model, fileName, corpus, id2word)
-    printToText(lda_model, fileName)
+    printToHTML(lda_model, podcastName, corpus, id2word)
+    printToText(lda_model, podcastName)
 
 
 results = []
@@ -105,26 +92,25 @@ totalList = []
 
 
 def indLdaDriver():
-    ctr = 0
+
+    # adds each transcript to a list in string format for processing
+
     for folderName, subfolders, fileName in os.walk(textLocation):
 
-        # try:
+     try:
         for file in fileName:
             f = open(os.path.join(folderName, file), 'rb')
-            # value0, value1, value2, value3, *extraWords = file.split('_')
-            value4 = f.read()
-            # rows = (value0, value1, value2, value3, value4)
-            rows = ("", "", "", "", value4)
-            results.append(rows)
 
-            ctr = ctr + 1
+            txt_file_as_string = f.read()
 
-            # get all scrubbed data from a given file index
-            data = iterator(ctr)
+            # split string into list
+            data = txt_file_as_string.splitlines()
 
+            # remove stopwords
             data_words_nostops = process_words(data)
 
-            formatDataAndModel(data_words_nostops, file)
+            formatDataAndModel(data_words_nostops, str(file))
 
-    # except:
-    #   print("error")
+            f.close()
+     except:
+         print("error")
