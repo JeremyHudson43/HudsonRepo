@@ -6,16 +6,14 @@ import gensim
 import gensim.corpora as corpora
 from gensim.utils import simple_preprocess
 
+import spacy
+import warnings
+warnings.filterwarnings("ignore", category=DeprecationWarning)
+
 import os
 
 # import all paths from BuildData
 from BuildData import *
-
-import spacy
-
-import warnings
-
-warnings.filterwarnings("ignore", category=DeprecationWarning)
 
 stop_words = stopwords.words('english')
 
@@ -94,7 +92,6 @@ totalList = []
 def indLdaDriver():
 
     # adds each transcript to a list in string format for processing
-
     for folderName, subfolders, fileName in os.walk(textLocation):
 
      try:
@@ -111,6 +108,6 @@ def indLdaDriver():
 
             formatDataAndModel(data_words_nostops, str(file))
 
-            f.close()
+            f.close()            
      except:
          print("error")
