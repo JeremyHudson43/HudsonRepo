@@ -62,7 +62,7 @@ totalList = []
 def bigramDriver():
     counter = 0
     # driver code block that loops through every file in a folder
-    for folderName, subfolders, fileName in os.walk(transcriptsLocation):
+    for folderName, subfolders, fileName in os.walk(textLocation):
 
         for file in fileName:
             f = open(os.path.join(folderName, file), 'rb')
