@@ -1,4 +1,4 @@
-package Models;
+package Popup;
 
 import java.awt.Point;
 import javax.swing.JFrame;
