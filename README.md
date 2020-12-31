@@ -6,10 +6,6 @@ Hello, and welcome to my GitHub. I've written the following programs for fun and
 
 This project was designed as part of a group project, but the code I wrote is clearly labeled at the top of each Java file. A more detailed description can be found under docs inside the Library Management System folder. 
 
-## JavaFX
-
-``Network Simulator`` - Simulates the transmission of a packet across a network. Currently implements a fully functioning TCP packet with complete checksum calculation. 
-
  ## SQL / PHP
 ``Sample Company Database`` - Simulates a simple company database implementing SQL and using PHP as a backend. Feel free to add and edit values yourself. 
 
