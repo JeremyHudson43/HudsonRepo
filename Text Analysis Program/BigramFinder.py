@@ -5,7 +5,10 @@ import nltk
 from nltk.corpus import wordnet
 from nltk.collocations import *
 
+# import IndividualLDA for redundancies
 import IndividualLDA
+
+# import all paths from BuildData
 from BuildData import *
 
 
