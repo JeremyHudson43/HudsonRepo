@@ -1,4 +1,6 @@
 from top2vec import Top2Vec
+
+# import all paths from BuildData
 from BuildData import *
 import sys
 import os
