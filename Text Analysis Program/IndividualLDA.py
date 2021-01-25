@@ -108,6 +108,6 @@ def indLdaDriver():
 
             formatDataAndModel(data_words_nostops, str(file))
 
-            f.close()            
+            f.close()
      except:
          print("error")

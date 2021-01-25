@@ -1,10 +1,13 @@
 from collections import Counter
 from nltk.corpus import wordnet
 import re
+import os
 import csv
 
+from BuildData import *
+
 # import all redundancies
-from IndividualLDA import *
+import IndividualLDA
 
 
 def commonWordsDriver():
@@ -18,7 +21,7 @@ def commonWordsDriver():
             data = fileFullPath.read().lower().splitlines()
 
             # filter to words not in stop words and that have a length of greater than two
-            texts = [word for word in simple_preprocess(str(data)) if word not in stop_words and wordnet.synsets(word)]
+            texts = [word for word in IndividualLDA.simple_preprocess(str(data)) if word not in IndividualLDA.stop_words and wordnet.synsets(word)]
 
             # filter out non-letter values
             final_list = [re.sub(r'[^a-zA-Z]', '', i) for i in str(texts).split()]

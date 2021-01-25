@@ -90,48 +90,4 @@ semanticSearch()
 docsByTopic()
 similarKeywords()
 
-# not ideal but works for now
-
-clear = lambda: os.system('cls')
-
-
-f = open(os.path.join(top2VecLocation, "metadata.txt"), 'w')
-sys.stdout = f
-printMetaData()
-f.close()
-clear()
-
-f = open(os.path.join(top2VecLocation, "Model Topics.txt"), 'w')
-sys.stdout = f
-printModelTopics()
-f.close()
-clear()
-
-
-f = open(os.path.join(top2VecLocation, "Similar Topics.txt"), 'w')
-sys.stdout = f
-similarTopics()
-f.close()
-clear()
-
-
-f = open(os.path.join(top2VecLocation, "Semantic Search.txt"), 'w')
-sys.stdout = f
-semanticSearch()
-f.close()
-clear()
-
-
-f = open(os.path.join(top2VecLocation, "Docs by Topic.txt"), 'w')
-sys.stdout = f
-docsByTopic()
-f.close()
-clear()
-
-
-f = open(os.path.join(top2VecLocation, "Similar Keywords.txt"), 'w')
-sys.stdout = f
-similarKeywords()
-f.close()
-clear()
 

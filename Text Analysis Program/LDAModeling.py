@@ -1,12 +1,15 @@
 # Some of this code was found from the following link:
 # https://www.machinelearningplus.com/nlp/topic-modeling-gensim-python/
 
-from IndividualLDA import *
+import pandas as pd
+
+import IndividualLDA
+from BuildData import *
 
 all_txt_files = []
 
 # adds each transcript to a list
-for file in transcriptsLocation.rglob("*.txt"):
+for file in IndividualLDA.transcriptsLocation.rglob("*.txt"):
     all_txt_files.append(file.name)
 
 all_docs = []
@@ -23,20 +26,20 @@ df = pd.DataFrame(all_docs)
 data = df.values.tolist()
 
 # tokenizes words using sent_to_words in IndividualLDA
-data_words = list(sent_to_words(data))
+data_words = list(IndividualLDA.sent_to_words(data))
 
 # remove stop words and lemmatize using process_words in IndividualLDA
-data_ready = process_words(data_words)
+data_ready = IndividualLDA.process_words(data_words)
 
 # Create Dictionary
-id2word = corpora.Dictionary(data_ready)
+id2word = IndividualLDA.corpora.Dictionary(data_ready)
 
 # Term Document Frequency
 corpus = [id2word.doc2bow(text) for text in data_ready]
 
 numOfDocs = len(all_docs)
 
-lda_model = gensim.models.ldamodel.LdaModel(corpus=corpus,
+lda_model = IndividualLDA.gensim.models.ldamodel.LdaModel(corpus=corpus,
                                             id2word=id2word,
                                             num_topics=numOfDocs * 4,
                                             passes=100,

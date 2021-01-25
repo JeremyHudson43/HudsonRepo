@@ -1,5 +1,8 @@
 from sklearn.feature_extraction.text import TfidfVectorizer
-from IndividualLDA import *
+import os
+import pandas as pd
+import IndividualLDA
+from BuildData import *
 
 all_txt_files = []
 
@@ -12,11 +15,11 @@ all_txt_files.sort()
 all_docs = []
 # adds each transcript to a list in string format for processing
 for txt_file in all_txt_files:
-    with open(transcriptsLocation / txt_file, encoding = "UTF-8") as f:
+    with open(transcriptsLocation / txt_file) as f:
         txt_file_as_string = f.read()
     all_docs.append(txt_file_as_string)
 
-vectorizer = TfidfVectorizer(max_df=.65, min_df=1, stop_words=stop_words, use_idf=True, norm=None)
+vectorizer = TfidfVectorizer(max_df=.65, min_df=1, stop_words=IndividualLDA.stop_words, use_idf=True, norm=None)
 transformed_documents = vectorizer.fit_transform(all_docs)
 
 transformed_documents_as_array = transformed_documents.toarray()
