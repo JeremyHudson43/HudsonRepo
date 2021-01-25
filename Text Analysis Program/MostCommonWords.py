@@ -4,10 +4,11 @@ import re
 import os
 import csv
 
-from BuildData import *
-
-# import all redundancies
+# import IndividualLDA for redundancies
 import IndividualLDA
+
+# import all paths from BuildData
+from BuildData import *
 
 
 def commonWordsDriver():
