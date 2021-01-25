@@ -3,8 +3,12 @@
 
 import pandas as pd
 
+# import IndividualLDA for redundancies
 import IndividualLDA
+
+# import all paths from BuildData
 from BuildData import *
+
 
 all_txt_files = []
 
