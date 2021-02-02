@@ -19,6 +19,13 @@ http://jeremyhudson471.c1.biz/
 
 Results from running the program on the King James Bible can be found in the "Results" folder inside the "Text Analysis Program" folder. 
 
+ ## IPython Notebooks 
+ 
+Leftover notebooks I wrote for the Data Science 2019 course as part of the PodKnow project.
+
+Results from running the program on the King James Bible can be found in the "Results" folder inside the "Text Analysis Program" folder. 
+
+
  ## Group Project Repositories I have contributed to
  
  
