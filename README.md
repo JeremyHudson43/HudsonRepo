@@ -21,7 +21,7 @@ Results from running the program on the King James Bible can be found in the "Re
 
  ## IPython Notebooks 
  
-Leftover notebooks I wrote for the Data Science 2019 course as part of the PodKnow project.
+Leftover notebooks I wrote for the Data Science Fall 2019 course as part of the PodKnow project.
 
 
  ## Group Project Repositories I have contributed to
